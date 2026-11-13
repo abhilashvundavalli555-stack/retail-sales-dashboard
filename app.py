@@ -74,7 +74,7 @@ def export_report():
 
     report = io.StringIO(newline="")
     writer = csv.writer(report)
-    writer.writerow(["Northstar Retail Summary"])
+    writer.writerow(["Goodfolk Store Ledger"])
     writer.writerow(["Fictional demonstration data", "USD"])
     writer.writerow([])
     writer.writerow(["Metric", "Value"])
@@ -98,7 +98,7 @@ def export_report():
         io.BytesIO(report.getvalue().encode("utf-8-sig")),
         mimetype="text/csv",
         as_attachment=True,
-        download_name="northstar-retail-summary.csv",
+        download_name="goodfolk-store-ledger.csv",
     )
 
 

@@ -8,7 +8,7 @@ const compactMoney = (value) => {
   return money(value);
 };
 const number = (value) => new Intl.NumberFormat("en-US").format(value);
-const palette = ["#ed7860", "#8c75e8", "#79a4d5", "#72b99f"];
+const palette = ["#c76547", "#687453", "#a77753", "#89a18b"];
 
 function svgElement(name, attributes = {}) {
   const node = document.createElementNS("http://www.w3.org/2000/svg", name);
@@ -41,7 +41,7 @@ function drawTrend(items) {
     x: padding.left + plotWidth * (items.length === 1 ? 0.5 : index / (items.length - 1)),
     y: padding.top + plotHeight * (1 - value / max),
   });
-  for (const [key, color, className] of [["sales", "#ed7860", "line-sales"], ["profit", "#8c75e8", "line-profit"]]) {
+  for (const [key, color, className] of [["sales", "#c76547", "line-sales"], ["profit", "#687453", "line-profit"]]) {
     const points = items.map((item, index) => pointFor(item[key], index));
     const path = svgElement("path", {
       d: points.map((point, index) => `${index ? "L" : "M"} ${point.x} ${point.y}`).join(" "),
@@ -250,7 +250,7 @@ $("#export-button").addEventListener("click", async () => {
     }
     const link = document.createElement("a");
     link.href = URL.createObjectURL(await response.blob());
-    link.download = "northstar-retail-summary.csv";
+    link.download = "goodfolk-store-ledger.csv";
     document.body.append(link);
     link.click();
     link.remove();

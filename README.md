@@ -1,6 +1,6 @@
-# Northstar — Retail Sales Dashboard
+# Goodfolk — The Store Ledger
 
-A polished, responsive retail analytics website built with Python and Flask. Explore sales, net profit, orders, average order value, sales trends, category mix, regional performance, bestsellers, and recent transactions. Filters update the dashboard live, and the Export report button downloads a filtered CSV summary with top products.
+A warm, editorial-style retail analytics website built with Python and Flask. Explore sales, net profit, orders, average order value, monthly sales trends, category mix, regional performance, bestsellers, and recent transactions. Date, region, and category filters update the dashboard live. Print the ledger to download a filtered CSV summary with top products.
 
 > **Demo only:** This project includes 1,200 reproducible, entirely fictional sample orders for 2025. It does not contain real customer or business data.
 
