@@ -1,0 +1,1201 @@
+date,order_id,region,state,category,product,units,unit_price,unit_cost
+2025-08-21,RT-00001,South,Georgia,Apparel,Cotton knit sweater,1,83.01,35.64
+2025-01-13,RT-00002,Northeast,Massachusetts,Home & Living,Linen cushion cover,1,27.09,10.89
+2025-01-01,RT-00003,Northeast,Pennsylvania,Apparel,Relaxed fit tee,2,25.10,8.78
+2025-04-26,RT-00004,West,Colorado,Beauty,Daily ritual face oil,3,47.33,19.63
+2025-02-07,RT-00005,Northeast,Pennsylvania,Electronics,Wireless headphones,1,84.03,47.05
+2025-12-03,RT-00006,West,California,Beauty,Botanical hand care set,2,35.91,14.49
+2025-11-11,RT-00007,West,California,Apparel,Relaxed fit tee,1,27.13,8.93
+2025-10-19,RT-00008,Northeast,Massachusetts,Apparel,Everyday tote bag,2,33.64,12.33
+2025-04-17,RT-00009,Midwest,Ohio,Beauty,Botanical hand care set,1,35.15,13.81
+2025-02-05,RT-00010,Midwest,Illinois,Beauty,Daily ritual face oil,1,48.64,19.60
+2025-05-24,RT-00011,South,Georgia,Beauty,Botanical hand care set,1,35.64,13.82
+2025-05-01,RT-00012,West,California,Apparel,Relaxed fit tee,2,25.14,8.79
+2025-09-28,RT-00013,South,Georgia,Beauty,Botanical hand care set,1,33.89,14.09
+2025-12-31,RT-00014,South,Georgia,Home & Living,Glass table lamp,2,62.32,29.95
+2025-10-11,RT-00015,Midwest,Ohio,Beauty,Citrus body wash,1,23.39,7.83
+2025-11-03,RT-00016,South,North Carolina,Apparel,Relaxed fit tee,1,25.86,9.22
+2025-09-18,RT-00017,Northeast,Pennsylvania,Electronics,Wireless headphones,2,87.74,46.79
+2025-05-17,RT-00018,Midwest,Ohio,Apparel,Cotton knit sweater,1,79.69,37.24
+2025-10-15,RT-00019,West,Colorado,Beauty,Botanical hand care set,1,35.79,13.81
+2025-12-31,RT-00020,South,Georgia,Beauty,Botanical hand care set,1,34.37,13.70
+2025-07-06,RT-00021,Northeast,Pennsylvania,Beauty,Citrus body wash,1,21.43,8.22
+2025-01-27,RT-00022,Northeast,Massachusetts,Home & Living,Stoneware dinner set,2,73.22,35.23
+2025-04-09,RT-00023,Midwest,Minnesota,Beauty,Botanical hand care set,1,34.09,13.89
+2025-06-25,RT-00024,Midwest,Minnesota,Electronics,Portable speaker,2,56.01,26.52
+2025-12-22,RT-00025,Midwest,Minnesota,Home & Living,Stoneware dinner set,1,72.65,34.87
+2025-08-18,RT-00026,Northeast,Massachusetts,Home & Living,Glass table lamp,2,67.03,28.77
+2025-06-03,RT-00027,Northeast,Massachusetts,Electronics,Portable speaker,2,61.40,27.93
+2025-07-12,RT-00028,Midwest,Minnesota,Home & Living,Linen cushion cover,1,28.93,11.37
+2025-01-27,RT-00029,West,California,Home & Living,Glass table lamp,3,61.10,28.44
+2025-09-01,RT-00030,Midwest,Illinois,Beauty,Citrus body wash,1,21.41,7.69
+2025-12-10,RT-00031,West,Colorado,Electronics,Portable speaker,1,60.96,26.73
+2025-05-12,RT-00032,South,Texas,Beauty,Daily ritual face oil,2,46.08,19.48
+2025-01-16,RT-00033,West,California,Apparel,Cotton knit sweater,4,81.16,36.32
+2025-06-30,RT-00034,South,Georgia,Electronics,Portable speaker,1,56.61,26.50
+2025-06-17,RT-00035,South,Georgia,Apparel,Relaxed fit tee,1,26.56,8.80
+2025-07-27,RT-00036,Midwest,Ohio,Home & Living,Linen cushion cover,2,27.38,10.57
+2025-03-07,RT-00037,South,Georgia,Electronics,Smart desk light,1,45.01,19.20
+2025-12-30,RT-00038,Northeast,Pennsylvania,Home & Living,Glass table lamp,1,61.44,29.61
+2025-08-05,RT-00039,Northeast,Pennsylvania,Home & Living,Linen cushion cover,1,28.72,11.05
+2025-02-25,RT-00040,South,Texas,Electronics,Smart desk light,1,41.12,19.12
+2025-07-06,RT-00041,South,Texas,Electronics,Smart desk light,1,42.12,18.57
+2025-12-21,RT-00042,West,Colorado,Home & Living,Glass table lamp,3,63.78,29.31
+2025-03-04,RT-00043,South,North Carolina,Beauty,Daily ritual face oil,3,45.42,18.75
+2025-03-23,RT-00044,South,North Carolina,Apparel,Relaxed fit tee,1,25.84,9.33
+2025-02-25,RT-00045,West,California,Electronics,Smart desk light,1,41.09,18.50
+2025-09-19,RT-00046,Northeast,Pennsylvania,Electronics,Smart desk light,1,44.02,18.64
+2025-05-24,RT-00047,Midwest,Illinois,Beauty,Daily ritual face oil,1,51.16,18.93
+2025-10-07,RT-00048,Northeast,Massachusetts,Beauty,Botanical hand care set,1,34.46,14.24
+2025-12-21,RT-00049,Midwest,Illinois,Beauty,Daily ritual face oil,3,46.69,19.18
+2025-02-15,RT-00050,South,North Carolina,Beauty,Citrus body wash,1,20.83,8.01
+2025-11-05,RT-00051,South,Georgia,Beauty,Citrus body wash,1,22.82,7.96
+2025-06-04,RT-00052,South,North Carolina,Electronics,Portable speaker,4,55.97,27.83
+2025-01-02,RT-00053,South,Texas,Beauty,Citrus body wash,1,21.09,7.74
+2025-08-16,RT-00054,South,Texas,Apparel,Relaxed fit tee,2,25.44,9.33
+2025-01-20,RT-00055,Northeast,Massachusetts,Apparel,Relaxed fit tee,1,25.48,8.96
+2025-08-08,RT-00056,West,California,Home & Living,Glass table lamp,2,62.21,28.30
+2025-12-02,RT-00057,Midwest,Illinois,Electronics,Portable speaker,1,59.36,26.57
+2025-01-04,RT-00058,Midwest,Illinois,Electronics,Portable speaker,2,60.46,26.68
+2025-10-27,RT-00059,South,North Carolina,Apparel,Cotton knit sweater,1,83.59,34.92
+2025-05-19,RT-00060,Northeast,Massachusetts,Beauty,Botanical hand care set,2,38.23,14.07
+2025-03-28,RT-00061,South,Texas,Apparel,Cotton knit sweater,2,86.35,34.58
+2025-02-14,RT-00062,South,Texas,Beauty,Botanical hand care set,2,35.67,13.80
+2025-09-14,RT-00063,West,Colorado,Beauty,Botanical hand care set,1,36.24,14.41
+2025-04-17,RT-00064,Northeast,New York,Home & Living,Stoneware dinner set,1,74.64,34.20
+2025-12-28,RT-00065,Northeast,Massachusetts,Electronics,Wireless headphones,1,87.49,47.45
+2025-01-12,RT-00066,South,Georgia,Apparel,Cotton knit sweater,1,80.41,35.30
+2025-06-18,RT-00067,Northeast,Pennsylvania,Apparel,Cotton knit sweater,1,84.78,35.11
+2025-07-09,RT-00068,South,Texas,Beauty,Botanical hand care set,2,36.21,13.87
+2025-03-16,RT-00069,Northeast,Massachusetts,Beauty,Daily ritual face oil,1,46.28,19.30
+2025-03-13,RT-00070,Northeast,New York,Apparel,Everyday tote bag,1,30.23,12.04
+2025-05-02,RT-00071,Midwest,Ohio,Home & Living,Glass table lamp,2,67.59,29.09
+2025-07-28,RT-00072,Midwest,Ohio,Electronics,Portable speaker,1,60.59,27.13
+2025-08-21,RT-00073,Midwest,Illinois,Electronics,Smart desk light,1,42.83,18.90
+2025-07-22,RT-00074,Midwest,Ohio,Beauty,Daily ritual face oil,1,45.59,18.78
+2025-11-06,RT-00075,Midwest,Minnesota,Home & Living,Glass table lamp,2,67.73,30.04
+2025-06-07,RT-00076,Northeast,New York,Apparel,Relaxed fit tee,2,24.92,8.73
+2025-08-01,RT-00077,Northeast,Massachusetts,Home & Living,Linen cushion cover,1,26.71,10.75
+2025-03-14,RT-00078,Northeast,Massachusetts,Electronics,Wireless headphones,1,89.69,47.13
+2025-01-12,RT-00079,Northeast,Massachusetts,Electronics,Smart desk light,1,42.85,18.40
+2025-02-26,RT-00080,Midwest,Ohio,Beauty,Botanical hand care set,1,35.89,14.11
+2025-06-09,RT-00081,West,California,Home & Living,Glass table lamp,3,63.67,29.04
+2025-03-23,RT-00082,West,Colorado,Apparel,Cotton knit sweater,2,87.42,34.94
+2025-06-18,RT-00083,West,Colorado,Beauty,Citrus body wash,1,22.10,7.70
+2025-08-20,RT-00084,South,North Carolina,Home & Living,Linen cushion cover,1,26.98,11.24
+2025-12-13,RT-00085,Northeast,New York,Electronics,Portable speaker,1,56.35,26.68
+2025-09-16,RT-00086,West,California,Apparel,Everyday tote bag,2,33.34,12.31
+2025-04-15,RT-00087,Northeast,Massachusetts,Beauty,Botanical hand care set,2,34.93,13.48
+2025-10-10,RT-00088,Northeast,Massachusetts,Beauty,Daily ritual face oil,2,45.41,19.05
+2025-12-15,RT-00089,South,Texas,Home & Living,Linen cushion cover,4,27.04,10.99
+2025-07-20,RT-00090,West,California,Home & Living,Glass table lamp,1,62.21,27.95
+2025-06-14,RT-00091,Northeast,Pennsylvania,Beauty,Daily ritual face oil,1,47.62,18.69
+2025-07-06,RT-00092,Northeast,Pennsylvania,Home & Living,Glass table lamp,1,67.41,28.43
+2025-09-04,RT-00093,South,Georgia,Electronics,Wireless headphones,1,86.14,46.38
+2025-12-18,RT-00094,Midwest,Minnesota,Beauty,Citrus body wash,1,22.38,7.87
+2025-01-08,RT-00095,South,Texas,Electronics,Portable speaker,1,60.41,26.95
+2025-05-09,RT-00096,West,Washington,Home & Living,Glass table lamp,2,65.50,28.91
+2025-11-10,RT-00097,South,Georgia,Home & Living,Linen cushion cover,1,27.14,10.64
+2025-12-18,RT-00098,Midwest,Ohio,Beauty,Citrus body wash,1,21.14,8.08
+2025-06-16,RT-00099,South,North Carolina,Electronics,Smart desk light,1,45.70,19.29
+2025-05-03,RT-00100,Northeast,New York,Home & Living,Glass table lamp,1,66.16,28.60
+2025-06-06,RT-00101,Northeast,Pennsylvania,Home & Living,Stoneware dinner set,1,74.41,34.63
+2025-07-08,RT-00102,Midwest,Illinois,Beauty,Daily ritual face oil,1,45.88,18.25
+2025-03-16,RT-00103,South,Texas,Home & Living,Glass table lamp,1,68.18,28.21
+2025-06-07,RT-00104,Midwest,Minnesota,Home & Living,Linen cushion cover,3,28.09,11.17
+2025-01-09,RT-00105,Midwest,Ohio,Home & Living,Linen cushion cover,2,27.83,10.59
+2025-10-31,RT-00106,Midwest,Ohio,Beauty,Botanical hand care set,1,37.40,14.05
+2025-02-05,RT-00107,Northeast,Massachusetts,Apparel,Cotton knit sweater,1,80.70,34.93
+2025-05-01,RT-00108,Midwest,Ohio,Electronics,Wireless headphones,1,84.90,45.60
+2025-11-12,RT-00109,Northeast,New York,Beauty,Daily ritual face oil,1,49.01,19.31
+2025-07-19,RT-00110,South,North Carolina,Electronics,Portable speaker,1,54.62,26.17
+2025-12-24,RT-00111,Northeast,Massachusetts,Beauty,Daily ritual face oil,2,46.40,18.66
+2025-09-06,RT-00112,West,California,Home & Living,Stoneware dinner set,1,68.89,33.52
+2025-11-29,RT-00113,Midwest,Minnesota,Beauty,Botanical hand care set,1,33.99,14.47
+2025-01-17,RT-00114,West,Colorado,Apparel,Everyday tote bag,2,31.03,11.54
+2025-11-09,RT-00115,South,Texas,Apparel,Everyday tote bag,1,33.03,12.31
+2025-08-28,RT-00116,Northeast,Massachusetts,Home & Living,Glass table lamp,3,60.20,29.02
+2025-07-25,RT-00117,West,Washington,Apparel,Cotton knit sweater,1,83.84,35.40
+2025-08-04,RT-00118,South,Texas,Electronics,Wireless headphones,3,92.31,46.99
+2025-07-21,RT-00119,Northeast,Massachusetts,Electronics,Smart desk light,1,40.73,19.03
+2025-10-25,RT-00120,Midwest,Ohio,Beauty,Citrus body wash,1,22.63,8.18
+2025-10-16,RT-00121,Midwest,Illinois,Beauty,Daily ritual face oil,1,45.38,18.92
+2025-11-04,RT-00122,South,North Carolina,Electronics,Smart desk light,2,44.42,18.90
+2025-12-24,RT-00123,Northeast,Pennsylvania,Electronics,Portable speaker,2,60.14,26.41
+2025-07-10,RT-00124,Northeast,Pennsylvania,Beauty,Citrus body wash,2,20.85,7.96
+2025-12-23,RT-00125,South,Texas,Electronics,Wireless headphones,2,87.59,47.53
+2025-05-01,RT-00126,West,Colorado,Home & Living,Stoneware dinner set,2,68.91,34.12
+2025-09-09,RT-00127,Midwest,Ohio,Beauty,Botanical hand care set,1,35.72,14.32
+2025-10-18,RT-00128,South,Texas,Electronics,Portable speaker,1,55.75,25.97
+2025-08-16,RT-00129,Midwest,Illinois,Electronics,Smart desk light,1,43.41,18.98
+2025-02-12,RT-00130,South,Texas,Apparel,Everyday tote bag,1,30.53,11.73
+2025-01-20,RT-00131,Midwest,Minnesota,Electronics,Portable speaker,1,59.59,26.35
+2025-04-15,RT-00132,Midwest,Ohio,Home & Living,Stoneware dinner set,1,75.68,34.59
+2025-03-20,RT-00133,Northeast,Pennsylvania,Home & Living,Stoneware dinner set,1,75.76,35.25
+2025-12-15,RT-00134,Northeast,New York,Electronics,Smart desk light,1,43.72,19.16
+2025-07-25,RT-00135,West,Washington,Beauty,Botanical hand care set,1,36.72,14.02
+2025-07-16,RT-00136,West,Colorado,Apparel,Everyday tote bag,1,31.05,12.15
+2025-01-17,RT-00137,West,Washington,Beauty,Botanical hand care set,1,35.75,14.12
+2025-10-08,RT-00138,Northeast,New York,Beauty,Daily ritual face oil,1,45.63,18.33
+2025-02-20,RT-00139,South,Texas,Home & Living,Glass table lamp,1,61.92,29.44
+2025-11-20,RT-00140,Midwest,Illinois,Electronics,Smart desk light,1,41.05,19.62
+2025-08-19,RT-00141,Midwest,Ohio,Home & Living,Linen cushion cover,1,29.76,10.78
+2025-08-20,RT-00142,Midwest,Illinois,Beauty,Botanical hand care set,1,38.20,14.13
+2025-10-22,RT-00143,Midwest,Ohio,Electronics,Portable speaker,2,59.71,27.46
+2025-02-25,RT-00144,Northeast,Pennsylvania,Apparel,Cotton knit sweater,1,82.62,36.61
+2025-12-18,RT-00145,Midwest,Illinois,Electronics,Smart desk light,1,41.97,19.47
+2025-09-17,RT-00146,Midwest,Ohio,Beauty,Botanical hand care set,1,35.32,14.06
+2025-08-12,RT-00147,West,California,Apparel,Cotton knit sweater,1,82.49,35.73
+2025-12-04,RT-00148,South,Texas,Apparel,Relaxed fit tee,1,25.05,8.98
+2025-09-07,RT-00149,Midwest,Illinois,Home & Living,Stoneware dinner set,1,68.74,34.15
+2025-06-24,RT-00150,West,Colorado,Home & Living,Stoneware dinner set,1,74.73,33.72
+2025-08-26,RT-00151,West,Colorado,Apparel,Cotton knit sweater,2,84.92,36.90
+2025-05-07,RT-00152,Northeast,Pennsylvania,Beauty,Daily ritual face oil,1,50.66,19.76
+2025-06-13,RT-00153,Midwest,Illinois,Home & Living,Linen cushion cover,2,26.67,11.26
+2025-11-20,RT-00154,Midwest,Minnesota,Apparel,Cotton knit sweater,2,80.47,35.03
+2025-08-10,RT-00155,West,Washington,Apparel,Everyday tote bag,1,30.42,11.86
+2025-03-31,RT-00156,South,Texas,Beauty,Daily ritual face oil,4,48.71,18.93
+2025-11-14,RT-00157,Northeast,Pennsylvania,Home & Living,Linen cushion cover,1,27.77,11.41
+2025-06-07,RT-00158,Northeast,New York,Home & Living,Glass table lamp,2,62.91,29.82
+2025-12-12,RT-00159,Midwest,Ohio,Apparel,Relaxed fit tee,1,25.92,9.26
+2025-08-16,RT-00160,South,North Carolina,Apparel,Everyday tote bag,1,31.33,11.75
+2025-01-16,RT-00161,Northeast,Massachusetts,Beauty,Botanical hand care set,1,36.45,13.60
+2025-11-18,RT-00162,Northeast,Massachusetts,Beauty,Citrus body wash,1,22.17,8.12
+2025-08-26,RT-00163,South,Georgia,Electronics,Smart desk light,1,42.75,19.68
+2025-01-09,RT-00164,West,Colorado,Electronics,Portable speaker,2,61.30,27.15
+2025-07-13,RT-00165,Midwest,Illinois,Apparel,Relaxed fit tee,1,27.26,8.83
+2025-07-25,RT-00166,South,Texas,Beauty,Citrus body wash,4,21.89,7.73
+2025-07-08,RT-00167,Midwest,Illinois,Home & Living,Stoneware dinner set,1,73.16,34.06
+2025-12-19,RT-00168,West,Colorado,Home & Living,Stoneware dinner set,1,75.32,35.16
+2025-04-29,RT-00169,South,Texas,Beauty,Botanical hand care set,1,34.19,13.90
+2025-11-01,RT-00170,West,Colorado,Electronics,Wireless headphones,2,88.04,45.87
+2025-09-17,RT-00171,Midwest,Ohio,Electronics,Portable speaker,1,59.05,28.00
+2025-01-24,RT-00172,South,North Carolina,Apparel,Cotton knit sweater,1,85.69,35.23
+2025-12-23,RT-00173,Northeast,Massachusetts,Apparel,Everyday tote bag,1,32.64,11.54
+2025-06-05,RT-00174,Northeast,Pennsylvania,Apparel,Relaxed fit tee,1,25.92,9.17
+2025-09-02,RT-00175,South,Texas,Beauty,Citrus body wash,1,21.95,7.95
+2025-12-16,RT-00176,Northeast,Massachusetts,Apparel,Everyday tote bag,1,32.15,11.66
+2025-11-13,RT-00177,West,California,Electronics,Wireless headphones,1,84.99,46.26
+2025-12-19,RT-00178,West,Colorado,Beauty,Daily ritual face oil,1,47.67,19.41
+2025-12-11,RT-00179,South,Texas,Beauty,Botanical hand care set,1,35.15,14.09
+2025-11-10,RT-00180,Northeast,New York,Apparel,Everyday tote bag,1,30.12,11.95
+2025-12-07,RT-00181,Midwest,Ohio,Electronics,Smart desk light,1,40.71,18.56
+2025-11-16,RT-00182,Midwest,Ohio,Beauty,Citrus body wash,1,22.56,7.94
+2025-04-24,RT-00183,West,California,Electronics,Portable speaker,1,61.77,27.51
+2025-03-10,RT-00184,Northeast,New York,Apparel,Everyday tote bag,3,30.46,11.98
+2025-09-04,RT-00185,West,Washington,Electronics,Smart desk light,1,40.54,18.85
+2025-02-14,RT-00186,South,Georgia,Home & Living,Stoneware dinner set,1,69.18,35.21
+2025-05-05,RT-00187,South,North Carolina,Electronics,Smart desk light,1,45.62,19.06
+2025-02-18,RT-00188,West,California,Beauty,Botanical hand care set,1,37.94,14.34
+2025-09-02,RT-00189,South,North Carolina,Electronics,Wireless headphones,1,84.07,46.11
+2025-09-12,RT-00190,Northeast,Massachusetts,Electronics,Wireless headphones,1,90.21,45.91
+2025-11-14,RT-00191,Northeast,Pennsylvania,Beauty,Botanical hand care set,2,34.93,14.04
+2025-05-09,RT-00192,West,California,Electronics,Smart desk light,1,44.90,18.76
+2025-03-18,RT-00193,South,North Carolina,Home & Living,Glass table lamp,1,66.27,28.23
+2025-10-17,RT-00194,West,Washington,Beauty,Daily ritual face oil,2,46.62,18.34
+2025-10-25,RT-00195,Midwest,Ohio,Home & Living,Glass table lamp,2,65.13,28.82
+2025-12-05,RT-00196,South,North Carolina,Home & Living,Linen cushion cover,2,27.48,10.69
+2025-01-16,RT-00197,Midwest,Illinois,Home & Living,Glass table lamp,3,65.13,28.34
+2025-11-12,RT-00198,West,Colorado,Beauty,Botanical hand care set,1,34.93,13.64
+2025-03-31,RT-00199,Midwest,Minnesota,Home & Living,Linen cushion cover,2,27.72,11.23
+2025-01-03,RT-00200,South,North Carolina,Home & Living,Stoneware dinner set,1,71.23,34.38
+2025-05-27,RT-00201,South,Georgia,Apparel,Cotton knit sweater,1,87.59,36.17
+2025-02-19,RT-00202,South,Texas,Beauty,Citrus body wash,2,20.84,8.10
+2025-09-23,RT-00203,Northeast,New York,Home & Living,Glass table lamp,1,64.73,29.68
+2025-08-31,RT-00204,South,Texas,Electronics,Wireless headphones,1,89.00,46.38
+2025-12-14,RT-00205,Midwest,Minnesota,Beauty,Citrus body wash,2,21.58,7.79
+2025-02-10,RT-00206,Midwest,Minnesota,Apparel,Everyday tote bag,1,32.99,11.72
+2025-06-14,RT-00207,South,Texas,Apparel,Cotton knit sweater,2,80.60,35.88
+2025-11-04,RT-00208,West,Colorado,Electronics,Wireless headphones,3,86.15,44.33
+2025-07-13,RT-00209,West,California,Beauty,Citrus body wash,1,22.01,8.30
+2025-02-02,RT-00210,West,Colorado,Electronics,Smart desk light,1,41.89,18.84
+2025-06-19,RT-00211,Midwest,Illinois,Apparel,Relaxed fit tee,1,25.65,8.99
+2025-04-16,RT-00212,West,Colorado,Beauty,Botanical hand care set,1,36.70,13.54
+2025-06-02,RT-00213,South,Texas,Home & Living,Glass table lamp,1,62.03,28.65
+2025-12-14,RT-00214,West,California,Home & Living,Stoneware dinner set,1,73.83,34.63
+2025-06-24,RT-00215,West,Washington,Apparel,Everyday tote bag,1,31.25,12.22
+2025-12-29,RT-00216,Midwest,Ohio,Home & Living,Glass table lamp,4,68.15,27.94
+2025-09-01,RT-00217,West,California,Home & Living,Stoneware dinner set,1,75.14,34.51
+2025-05-01,RT-00218,Midwest,Ohio,Apparel,Cotton knit sweater,1,85.42,34.87
+2025-02-13,RT-00219,Northeast,Pennsylvania,Electronics,Portable speaker,1,58.26,27.46
+2025-10-13,RT-00220,Midwest,Ohio,Electronics,Smart desk light,1,43.15,19.03
+2025-08-29,RT-00221,West,Colorado,Electronics,Portable speaker,2,54.93,27.31
+2025-04-13,RT-00222,Northeast,Pennsylvania,Beauty,Citrus body wash,4,21.30,8.20
+2025-11-20,RT-00223,South,Georgia,Home & Living,Glass table lamp,1,60.62,28.12
+2025-12-27,RT-00224,Northeast,Pennsylvania,Beauty,Botanical hand care set,2,37.38,13.82
+2025-08-30,RT-00225,Northeast,Pennsylvania,Home & Living,Linen cushion cover,1,29.95,10.89
+2025-07-16,RT-00226,West,California,Electronics,Wireless headphones,1,88.98,45.98
+2025-11-21,RT-00227,Midwest,Illinois,Apparel,Everyday tote bag,2,30.88,12.22
+2025-09-09,RT-00228,South,Texas,Home & Living,Glass table lamp,1,63.74,28.56
+2025-02-16,RT-00229,West,California,Apparel,Relaxed fit tee,2,27.14,9.05
+2025-05-29,RT-00230,West,Washington,Beauty,Citrus body wash,1,23.52,8.09
+2025-10-17,RT-00231,West,Colorado,Apparel,Relaxed fit tee,1,24.89,9.31
+2025-02-27,RT-00232,Northeast,Pennsylvania,Electronics,Portable speaker,1,59.50,26.13
+2025-04-03,RT-00233,Northeast,Pennsylvania,Electronics,Smart desk light,1,44.29,18.41
+2025-03-26,RT-00234,Northeast,Pennsylvania,Home & Living,Glass table lamp,1,67.42,28.64
+2025-05-10,RT-00235,Northeast,Pennsylvania,Beauty,Daily ritual face oil,3,48.04,19.26
+2025-12-14,RT-00236,South,Texas,Electronics,Wireless headphones,2,87.69,45.45
+2025-08-22,RT-00237,Midwest,Minnesota,Beauty,Daily ritual face oil,2,48.59,18.71
+2025-11-27,RT-00238,Midwest,Illinois,Apparel,Cotton knit sweater,1,88.51,37.43
+2025-07-02,RT-00239,West,Colorado,Apparel,Cotton knit sweater,1,89.56,35.99
+2025-11-07,RT-00240,Northeast,Massachusetts,Electronics,Wireless headphones,1,83.82,45.87
+2025-02-15,RT-00241,West,Colorado,Home & Living,Stoneware dinner set,1,75.98,33.87
+2025-01-30,RT-00242,Northeast,New York,Apparel,Everyday tote bag,2,31.49,11.93
+2025-11-16,RT-00243,West,Washington,Beauty,Botanical hand care set,1,33.99,13.90
+2025-02-11,RT-00244,South,Georgia,Home & Living,Glass table lamp,1,67.11,28.19
+2025-01-10,RT-00245,Midwest,Minnesota,Apparel,Everyday tote bag,1,32.72,11.61
+2025-04-16,RT-00246,Northeast,New York,Beauty,Citrus body wash,1,23.46,7.91
+2025-03-26,RT-00247,South,Texas,Electronics,Smart desk light,2,42.21,18.60
+2025-04-04,RT-00248,West,Washington,Apparel,Cotton knit sweater,2,85.71,37.22
+2025-09-26,RT-00249,Northeast,New York,Beauty,Daily ritual face oil,4,45.91,19.13
+2025-12-21,RT-00250,Midwest,Minnesota,Beauty,Botanical hand care set,1,35.84,14.28
+2025-12-16,RT-00251,Northeast,New York,Home & Living,Glass table lamp,2,68.43,29.40
+2025-11-05,RT-00252,Midwest,Minnesota,Beauty,Botanical hand care set,1,37.76,13.68
+2025-10-29,RT-00253,Northeast,Massachusetts,Home & Living,Linen cushion cover,2,29.39,11.17
+2025-06-30,RT-00254,Northeast,Massachusetts,Apparel,Cotton knit sweater,2,88.65,36.24
+2025-07-20,RT-00255,West,California,Apparel,Relaxed fit tee,1,27.30,9.29
+2025-06-09,RT-00256,Northeast,Massachusetts,Home & Living,Glass table lamp,2,63.99,29.31
+2025-05-21,RT-00257,West,Washington,Apparel,Cotton knit sweater,1,85.67,36.44
+2025-10-17,RT-00258,West,Washington,Home & Living,Linen cushion cover,3,28.60,10.67
+2025-04-21,RT-00259,Northeast,Massachusetts,Apparel,Cotton knit sweater,1,89.10,35.20
+2025-09-15,RT-00260,Northeast,Pennsylvania,Beauty,Botanical hand care set,1,38.24,14.08
+2025-01-17,RT-00261,Midwest,Ohio,Beauty,Botanical hand care set,2,34.54,13.62
+2025-06-28,RT-00262,West,California,Apparel,Relaxed fit tee,3,26.47,9.31
+2025-07-28,RT-00263,South,Georgia,Electronics,Portable speaker,1,57.17,27.99
+2025-12-12,RT-00264,Midwest,Illinois,Electronics,Portable speaker,1,61.34,26.11
+2025-11-29,RT-00265,South,Georgia,Electronics,Portable speaker,1,59.22,27.15
+2025-09-30,RT-00266,West,Washington,Beauty,Daily ritual face oil,1,45.55,19.41
+2025-11-25,RT-00267,South,North Carolina,Home & Living,Linen cushion cover,1,29.12,11.00
+2025-11-08,RT-00268,West,Washington,Home & Living,Linen cushion cover,1,28.11,10.77
+2025-12-29,RT-00269,Northeast,Massachusetts,Home & Living,Stoneware dinner set,1,69.35,35.00
+2025-07-25,RT-00270,West,Colorado,Apparel,Everyday tote bag,2,30.67,12.43
+2025-03-30,RT-00271,South,Texas,Beauty,Citrus body wash,1,23.14,8.27
+2025-11-30,RT-00272,West,California,Home & Living,Glass table lamp,1,61.44,29.43
+2025-10-30,RT-00273,Northeast,New York,Apparel,Relaxed fit tee,1,25.60,9.09
+2025-05-23,RT-00274,South,Texas,Apparel,Everyday tote bag,1,30.56,11.97
+2025-05-11,RT-00275,Midwest,Minnesota,Apparel,Everyday tote bag,1,33.64,11.97
+2025-05-02,RT-00276,Northeast,New York,Apparel,Relaxed fit tee,1,26.11,9.17
+2025-01-11,RT-00277,South,Texas,Apparel,Relaxed fit tee,2,26.80,8.90
+2025-06-23,RT-00278,Midwest,Illinois,Electronics,Smart desk light,2,40.74,19.67
+2025-02-27,RT-00279,Midwest,Illinois,Home & Living,Glass table lamp,1,60.87,29.74
+2025-12-15,RT-00280,West,Washington,Apparel,Cotton knit sweater,1,87.85,36.10
+2025-07-18,RT-00281,Northeast,Pennsylvania,Beauty,Citrus body wash,1,21.79,7.70
+2025-03-12,RT-00282,Northeast,Pennsylvania,Apparel,Relaxed fit tee,1,25.72,8.86
+2025-12-01,RT-00283,Northeast,Pennsylvania,Electronics,Wireless headphones,1,92.01,45.12
+2025-07-06,RT-00284,South,North Carolina,Home & Living,Stoneware dinner set,1,70.99,34.20
+2025-06-02,RT-00285,South,North Carolina,Electronics,Wireless headphones,2,95.14,47.24
+2025-06-24,RT-00286,Northeast,Pennsylvania,Beauty,Daily ritual face oil,1,48.82,19.45
+2025-09-19,RT-00287,West,Washington,Electronics,Portable speaker,2,60.18,27.53
+2025-01-01,RT-00288,Midwest,Ohio,Apparel,Cotton knit sweater,1,89.52,36.08
+2025-10-26,RT-00289,West,Colorado,Apparel,Cotton knit sweater,2,82.68,36.99
+2025-09-28,RT-00290,Midwest,Minnesota,Home & Living,Linen cushion cover,2,29.59,10.61
+2025-09-27,RT-00291,West,California,Beauty,Daily ritual face oil,1,46.01,19.19
+2025-05-25,RT-00292,South,Georgia,Home & Living,Glass table lamp,3,68.21,29.65
+2025-12-14,RT-00293,South,Georgia,Home & Living,Linen cushion cover,1,28.37,10.84
+2025-01-27,RT-00294,Northeast,Massachusetts,Home & Living,Glass table lamp,2,67.47,29.64
+2025-08-26,RT-00295,South,Georgia,Apparel,Everyday tote bag,1,31.15,11.66
+2025-07-15,RT-00296,Midwest,Minnesota,Home & Living,Stoneware dinner set,1,75.28,33.98
+2025-07-21,RT-00297,South,Georgia,Apparel,Everyday tote bag,1,31.49,11.65
+2025-08-14,RT-00298,South,Texas,Apparel,Everyday tote bag,1,30.94,12.45
+2025-11-15,RT-00299,Midwest,Minnesota,Apparel,Cotton knit sweater,1,87.57,34.93
+2025-12-07,RT-00300,Midwest,Ohio,Beauty,Citrus body wash,1,22.99,7.69
+2025-03-28,RT-00301,West,California,Electronics,Smart desk light,1,44.67,19.66
+2025-04-10,RT-00302,Midwest,Ohio,Electronics,Smart desk light,1,45.69,19.46
+2025-07-08,RT-00303,Northeast,Massachusetts,Electronics,Portable speaker,1,61.36,27.56
+2025-11-24,RT-00304,Midwest,Illinois,Beauty,Botanical hand care set,1,34.16,14.41
+2025-04-17,RT-00305,South,Georgia,Home & Living,Stoneware dinner set,3,75.41,34.70
+2025-04-21,RT-00306,West,California,Electronics,Wireless headphones,1,85.81,46.28
+2025-04-04,RT-00307,West,Washington,Electronics,Portable speaker,1,60.55,27.60
+2025-07-30,RT-00308,Midwest,Ohio,Home & Living,Glass table lamp,1,64.78,29.97
+2025-01-11,RT-00309,Northeast,Pennsylvania,Home & Living,Glass table lamp,1,60.78,28.75
+2025-04-10,RT-00310,Midwest,Minnesota,Home & Living,Stoneware dinner set,3,74.42,33.00
+2025-12-27,RT-00311,South,Texas,Electronics,Smart desk light,3,45.92,19.10
+2025-04-18,RT-00312,South,Georgia,Home & Living,Linen cushion cover,4,28.17,11.09
+2025-05-03,RT-00313,Midwest,Ohio,Beauty,Botanical hand care set,1,36.10,14.01
+2025-08-25,RT-00314,West,California,Electronics,Smart desk light,3,45.85,18.58
+2025-01-31,RT-00315,West,California,Apparel,Cotton knit sweater,2,84.97,35.34
+2025-04-16,RT-00316,South,North Carolina,Apparel,Everyday tote bag,1,31.06,12.42
+2025-08-23,RT-00317,South,North Carolina,Home & Living,Stoneware dinner set,1,70.50,34.72
+2025-02-06,RT-00318,Northeast,New York,Electronics,Smart desk light,1,45.60,19.64
+2025-01-04,RT-00319,Northeast,Pennsylvania,Beauty,Botanical hand care set,1,34.73,13.46
+2025-12-13,RT-00320,Northeast,New York,Beauty,Citrus body wash,2,23.27,8.13
+2025-10-30,RT-00321,South,North Carolina,Home & Living,Glass table lamp,1,63.27,29.40
+2025-12-09,RT-00322,Northeast,Massachusetts,Electronics,Wireless headphones,1,93.46,44.76
+2025-09-26,RT-00323,West,Washington,Home & Living,Stoneware dinner set,1,68.60,34.07
+2025-11-21,RT-00324,Midwest,Minnesota,Home & Living,Linen cushion cover,2,28.91,10.97
+2025-11-18,RT-00325,South,Texas,Electronics,Wireless headphones,1,94.80,46.94
+2025-08-14,RT-00326,West,Colorado,Beauty,Daily ritual face oil,2,49.72,19.55
+2025-10-31,RT-00327,Midwest,Ohio,Home & Living,Stoneware dinner set,1,72.47,34.25
+2025-09-26,RT-00328,South,Texas,Apparel,Cotton knit sweater,1,81.31,34.94
+2025-07-01,RT-00329,Northeast,Massachusetts,Beauty,Botanical hand care set,2,35.81,13.71
+2025-11-08,RT-00330,West,Washington,Home & Living,Stoneware dinner set,2,71.80,34.73
+2025-08-07,RT-00331,West,Washington,Electronics,Wireless headphones,1,83.72,46.07
+2025-09-28,RT-00332,South,Texas,Home & Living,Glass table lamp,1,64.17,29.70
+2025-08-23,RT-00333,Northeast,Massachusetts,Electronics,Wireless headphones,1,86.42,44.50
+2025-06-04,RT-00334,Midwest,Ohio,Electronics,Portable speaker,2,57.64,27.92
+2025-08-15,RT-00335,Northeast,New York,Electronics,Smart desk light,1,42.20,18.69
+2025-02-15,RT-00336,West,California,Home & Living,Stoneware dinner set,1,76.49,33.69
+2025-08-02,RT-00337,Northeast,Pennsylvania,Electronics,Wireless headphones,2,86.11,45.55
+2025-08-30,RT-00338,Midwest,Ohio,Home & Living,Linen cushion cover,2,29.45,10.77
+2025-01-09,RT-00339,Northeast,Pennsylvania,Beauty,Botanical hand care set,1,37.40,13.70
+2025-08-03,RT-00340,Northeast,Massachusetts,Home & Living,Glass table lamp,4,62.49,29.66
+2025-05-31,RT-00341,South,North Carolina,Home & Living,Linen cushion cover,4,28.54,11.18
+2025-06-25,RT-00342,West,Colorado,Home & Living,Linen cushion cover,1,26.56,11.04
+2025-09-20,RT-00343,Midwest,Minnesota,Beauty,Citrus body wash,1,21.53,7.81
+2025-07-15,RT-00344,South,North Carolina,Beauty,Botanical hand care set,1,36.57,14.14
+2025-09-03,RT-00345,West,Colorado,Apparel,Cotton knit sweater,1,84.92,35.84
+2025-08-22,RT-00346,South,North Carolina,Beauty,Botanical hand care set,1,37.04,13.69
+2025-08-19,RT-00347,West,California,Apparel,Everyday tote bag,1,31.36,12.28
+2025-10-15,RT-00348,Northeast,New York,Apparel,Cotton knit sweater,1,85.74,36.44
+2025-08-31,RT-00349,Midwest,Ohio,Beauty,Citrus body wash,1,21.96,7.78
+2025-02-02,RT-00350,South,Georgia,Home & Living,Stoneware dinner set,1,76.60,35.26
+2025-12-01,RT-00351,South,Texas,Apparel,Cotton knit sweater,1,84.77,35.52
+2025-12-15,RT-00352,West,California,Electronics,Smart desk light,1,45.10,19.68
+2025-12-16,RT-00353,Midwest,Minnesota,Apparel,Cotton knit sweater,2,86.08,34.83
+2025-06-10,RT-00354,Midwest,Minnesota,Beauty,Botanical hand care set,2,36.51,14.51
+2025-05-08,RT-00355,Midwest,Minnesota,Beauty,Citrus body wash,1,22.00,7.76
+2025-07-31,RT-00356,Midwest,Ohio,Electronics,Smart desk light,1,44.28,18.90
+2025-09-15,RT-00357,West,California,Beauty,Botanical hand care set,2,38.37,13.53
+2025-04-08,RT-00358,Northeast,New York,Apparel,Everyday tote bag,1,33.05,12.02
+2025-11-06,RT-00359,Midwest,Illinois,Beauty,Citrus body wash,1,22.92,7.92
+2025-12-03,RT-00360,West,Colorado,Apparel,Cotton knit sweater,1,88.50,34.66
+2025-09-11,RT-00361,Midwest,Ohio,Apparel,Everyday tote bag,2,33.80,12.29
+2025-01-17,RT-00362,West,Colorado,Apparel,Relaxed fit tee,1,27.76,8.80
+2025-12-23,RT-00363,West,California,Apparel,Relaxed fit tee,1,26.48,9.27
+2025-09-27,RT-00364,Northeast,Massachusetts,Home & Living,Stoneware dinner set,1,73.55,33.78
+2025-11-08,RT-00365,Northeast,New York,Electronics,Smart desk light,3,42.12,19.30
+2025-11-04,RT-00366,Northeast,Massachusetts,Beauty,Citrus body wash,2,23.23,8.29
+2025-11-15,RT-00367,Northeast,New York,Beauty,Citrus body wash,4,21.42,8.13
+2025-10-09,RT-00368,West,Colorado,Electronics,Wireless headphones,3,84.74,46.45
+2025-06-12,RT-00369,Northeast,New York,Beauty,Daily ritual face oil,1,47.66,18.67
+2025-02-28,RT-00370,Midwest,Ohio,Beauty,Daily ritual face oil,1,49.02,19.55
+2025-11-27,RT-00371,Midwest,Ohio,Home & Living,Stoneware dinner set,2,70.35,33.24
+2025-11-16,RT-00372,West,California,Apparel,Everyday tote bag,1,34.10,12.28
+2025-10-28,RT-00373,South,Texas,Beauty,Citrus body wash,1,23.41,8.20
+2025-08-24,RT-00374,Northeast,Pennsylvania,Beauty,Botanical hand care set,2,36.28,13.91
+2025-08-06,RT-00375,Midwest,Ohio,Electronics,Portable speaker,2,57.15,27.84
+2025-12-15,RT-00376,South,North Carolina,Home & Living,Linen cushion cover,1,28.23,11.05
+2025-04-04,RT-00377,Midwest,Illinois,Electronics,Portable speaker,1,56.98,27.64
+2025-12-31,RT-00378,Midwest,Illinois,Home & Living,Stoneware dinner set,2,69.47,32.69
+2025-07-21,RT-00379,South,North Carolina,Beauty,Citrus body wash,1,21.95,8.10
+2025-01-30,RT-00380,West,California,Apparel,Everyday tote bag,1,33.42,11.95
+2025-12-09,RT-00381,Midwest,Ohio,Beauty,Daily ritual face oil,1,50.77,19.02
+2025-11-18,RT-00382,Northeast,Massachusetts,Apparel,Everyday tote bag,1,30.81,11.92
+2025-02-01,RT-00383,Northeast,New York,Apparel,Relaxed fit tee,2,25.11,9.34
+2025-11-11,RT-00384,West,Washington,Electronics,Portable speaker,1,61.09,26.21
+2025-07-14,RT-00385,Northeast,New York,Beauty,Botanical hand care set,2,36.37,14.07
+2025-05-09,RT-00386,Northeast,Pennsylvania,Electronics,Wireless headphones,2,83.75,46.57
+2025-03-18,RT-00387,Northeast,New York,Apparel,Relaxed fit tee,4,27.17,8.95
+2025-05-01,RT-00388,South,Texas,Beauty,Botanical hand care set,2,37.96,14.41
+2025-11-13,RT-00389,Midwest,Minnesota,Beauty,Daily ritual face oil,1,50.69,18.57
+2025-08-12,RT-00390,Northeast,New York,Home & Living,Linen cushion cover,1,26.51,10.88
+2025-09-23,RT-00391,South,Georgia,Beauty,Botanical hand care set,1,34.80,13.52
+2025-08-24,RT-00392,West,California,Electronics,Smart desk light,1,41.76,19.27
+2025-05-24,RT-00393,West,California,Electronics,Smart desk light,2,42.43,19.07
+2025-07-29,RT-00394,West,California,Apparel,Everyday tote bag,1,32.39,12.33
+2025-10-30,RT-00395,Northeast,New York,Beauty,Citrus body wash,1,21.17,7.68
+2025-08-11,RT-00396,Northeast,Massachusetts,Apparel,Everyday tote bag,2,31.34,11.85
+2025-09-23,RT-00397,Northeast,Massachusetts,Home & Living,Linen cushion cover,1,26.52,10.90
+2025-07-17,RT-00398,West,California,Home & Living,Linen cushion cover,4,27.69,11.17
+2025-12-18,RT-00399,South,Georgia,Electronics,Wireless headphones,1,95.20,46.16
+2025-02-20,RT-00400,South,Georgia,Home & Living,Glass table lamp,3,60.94,29.67
+2025-11-28,RT-00401,South,Georgia,Apparel,Relaxed fit tee,1,25.07,9.28
+2025-12-18,RT-00402,South,Texas,Beauty,Citrus body wash,1,20.90,8.03
+2025-02-26,RT-00403,South,North Carolina,Home & Living,Linen cushion cover,1,29.12,11.29
+2025-12-13,RT-00404,Midwest,Illinois,Apparel,Everyday tote bag,1,31.53,12.48
+2025-06-05,RT-00405,Northeast,Pennsylvania,Beauty,Botanical hand care set,1,35.96,14.15
+2025-07-18,RT-00406,Midwest,Ohio,Apparel,Everyday tote bag,1,32.59,12.43
+2025-06-24,RT-00407,West,Colorado,Apparel,Cotton knit sweater,1,84.51,34.85
+2025-09-07,RT-00408,West,California,Home & Living,Linen cushion cover,1,29.69,10.88
+2025-04-17,RT-00409,Northeast,New York,Apparel,Cotton knit sweater,2,83.39,36.04
+2025-10-07,RT-00410,Northeast,Massachusetts,Apparel,Cotton knit sweater,2,89.03,35.99
+2025-08-01,RT-00411,West,Washington,Electronics,Wireless headphones,1,89.71,47.00
+2025-07-29,RT-00412,Midwest,Ohio,Apparel,Relaxed fit tee,1,26.00,8.74
+2025-08-26,RT-00413,Midwest,Ohio,Beauty,Daily ritual face oil,2,49.47,18.58
+2025-11-09,RT-00414,South,Texas,Electronics,Portable speaker,2,59.13,27.75
+2025-11-22,RT-00415,South,Georgia,Apparel,Cotton knit sweater,2,86.00,34.77
+2025-01-15,RT-00416,West,Washington,Apparel,Relaxed fit tee,1,26.10,8.81
+2025-07-27,RT-00417,Midwest,Minnesota,Beauty,Daily ritual face oil,1,45.23,18.25
+2025-05-16,RT-00418,South,North Carolina,Home & Living,Glass table lamp,2,66.97,29.14
+2025-01-01,RT-00419,Northeast,Massachusetts,Beauty,Botanical hand care set,2,36.38,13.93
+2025-11-27,RT-00420,South,North Carolina,Beauty,Botanical hand care set,1,36.76,14.00
+2025-06-07,RT-00421,Northeast,New York,Beauty,Botanical hand care set,2,37.61,13.71
+2025-06-16,RT-00422,Midwest,Illinois,Beauty,Citrus body wash,2,21.76,7.99
+2025-12-09,RT-00423,South,Texas,Beauty,Botanical hand care set,1,38.06,13.96
+2025-07-28,RT-00424,South,Texas,Electronics,Smart desk light,4,44.36,19.00
+2025-03-07,RT-00425,Northeast,New York,Apparel,Relaxed fit tee,1,25.89,9.14
+2025-11-24,RT-00426,South,North Carolina,Electronics,Portable speaker,1,55.72,26.01
+2025-06-23,RT-00427,Midwest,Minnesota,Beauty,Daily ritual face oil,1,47.95,18.51
+2025-03-28,RT-00428,Midwest,Minnesota,Apparel,Relaxed fit tee,4,25.58,9.06
+2025-01-17,RT-00429,Northeast,Massachusetts,Beauty,Daily ritual face oil,2,45.73,19.61
+2025-12-15,RT-00430,Northeast,New York,Apparel,Cotton knit sweater,1,81.55,35.94
+2025-10-23,RT-00431,Northeast,New York,Apparel,Relaxed fit tee,1,24.91,9.34
+2025-07-10,RT-00432,Midwest,Ohio,Apparel,Relaxed fit tee,1,25.58,9.06
+2025-08-08,RT-00433,Northeast,Massachusetts,Home & Living,Stoneware dinner set,1,74.53,34.44
+2025-09-02,RT-00434,South,Texas,Apparel,Everyday tote bag,1,32.49,12.43
+2025-11-16,RT-00435,Midwest,Illinois,Home & Living,Glass table lamp,1,64.12,28.52
+2025-07-29,RT-00436,West,California,Home & Living,Stoneware dinner set,2,75.94,33.59
+2025-11-11,RT-00437,Midwest,Illinois,Apparel,Relaxed fit tee,2,26.34,9.30
+2025-04-19,RT-00438,Midwest,Illinois,Apparel,Relaxed fit tee,1,26.79,8.74
+2025-11-28,RT-00439,West,Washington,Home & Living,Stoneware dinner set,2,70.17,32.87
+2025-07-17,RT-00440,Midwest,Illinois,Home & Living,Linen cushion cover,2,28.32,10.89
+2025-07-08,RT-00441,Northeast,New York,Beauty,Daily ritual face oil,2,45.54,19.75
+2025-04-25,RT-00442,West,California,Beauty,Daily ritual face oil,2,47.42,18.88
+2025-12-20,RT-00443,Midwest,Ohio,Home & Living,Stoneware dinner set,1,74.71,33.22
+2025-04-20,RT-00444,South,Texas,Apparel,Relaxed fit tee,2,24.99,8.85
+2025-03-10,RT-00445,West,Washington,Electronics,Portable speaker,2,55.07,26.31
+2025-05-18,RT-00446,Midwest,Ohio,Apparel,Relaxed fit tee,1,25.29,9.08
+2025-03-14,RT-00447,Northeast,Massachusetts,Apparel,Cotton knit sweater,4,83.41,36.68
+2025-03-03,RT-00448,Northeast,Pennsylvania,Home & Living,Stoneware dinner set,2,69.32,33.03
+2025-12-14,RT-00449,Northeast,Pennsylvania,Home & Living,Linen cushion cover,1,29.24,10.92
+2025-12-04,RT-00450,Midwest,Illinois,Home & Living,Glass table lamp,3,64.42,28.09
+2025-06-04,RT-00451,South,Texas,Apparel,Cotton knit sweater,3,88.95,35.98
+2025-09-28,RT-00452,West,California,Beauty,Citrus body wash,1,21.78,7.70
+2025-04-13,RT-00453,West,California,Apparel,Relaxed fit tee,1,24.87,9.12
+2025-09-11,RT-00454,Midwest,Illinois,Apparel,Relaxed fit tee,1,25.50,9.01
+2025-03-23,RT-00455,Midwest,Minnesota,Home & Living,Linen cushion cover,1,27.84,11.21
+2025-03-02,RT-00456,Midwest,Ohio,Apparel,Cotton knit sweater,2,82.89,36.72
+2025-12-21,RT-00457,South,Georgia,Beauty,Citrus body wash,1,20.71,7.91
+2025-06-15,RT-00458,South,Georgia,Beauty,Botanical hand care set,3,33.85,13.82
+2025-08-11,RT-00459,South,North Carolina,Electronics,Smart desk light,1,43.73,18.64
+2025-07-15,RT-00460,West,Washington,Apparel,Relaxed fit tee,4,26.16,8.80
+2025-06-04,RT-00461,Northeast,New York,Electronics,Portable speaker,1,57.43,26.25
+2025-04-15,RT-00462,Midwest,Minnesota,Apparel,Relaxed fit tee,1,26.47,9.12
+2025-09-13,RT-00463,Midwest,Minnesota,Beauty,Daily ritual face oil,1,48.37,19.31
+2025-06-18,RT-00464,West,Colorado,Electronics,Smart desk light,1,43.75,18.79
+2025-01-13,RT-00465,South,North Carolina,Electronics,Portable speaker,1,58.45,26.50
+2025-12-16,RT-00466,Northeast,New York,Beauty,Citrus body wash,2,23.21,8.13
+2025-07-22,RT-00467,West,California,Home & Living,Stoneware dinner set,4,73.37,33.25
+2025-10-21,RT-00468,Northeast,New York,Beauty,Daily ritual face oil,1,46.96,19.55
+2025-05-08,RT-00469,West,Colorado,Home & Living,Glass table lamp,1,67.95,28.14
+2025-11-12,RT-00470,South,Georgia,Electronics,Wireless headphones,3,89.21,44.74
+2025-10-12,RT-00471,South,Georgia,Apparel,Cotton knit sweater,1,87.39,36.91
+2025-10-22,RT-00472,Northeast,Pennsylvania,Apparel,Relaxed fit tee,1,26.71,9.26
+2025-02-09,RT-00473,West,Colorado,Home & Living,Glass table lamp,1,67.89,28.35
+2025-04-11,RT-00474,Midwest,Ohio,Beauty,Citrus body wash,1,22.79,7.85
+2025-08-29,RT-00475,South,Texas,Apparel,Relaxed fit tee,3,24.93,9.09
+2025-02-24,RT-00476,South,Georgia,Home & Living,Linen cushion cover,1,26.32,10.72
+2025-02-17,RT-00477,South,Texas,Beauty,Botanical hand care set,1,34.06,14.06
+2025-06-23,RT-00478,West,Washington,Beauty,Citrus body wash,1,20.99,7.72
+2025-03-29,RT-00479,Midwest,Illinois,Electronics,Wireless headphones,1,85.55,45.91
+2025-09-26,RT-00480,Midwest,Ohio,Home & Living,Stoneware dinner set,1,69.41,32.90
+2025-04-21,RT-00481,Northeast,Pennsylvania,Beauty,Botanical hand care set,2,38.07,14.25
+2025-12-22,RT-00482,Northeast,Massachusetts,Apparel,Everyday tote bag,3,33.32,12.42
+2025-04-13,RT-00483,West,Colorado,Beauty,Citrus body wash,1,22.73,7.94
+2025-09-07,RT-00484,Northeast,Pennsylvania,Home & Living,Linen cushion cover,1,29.94,11.09
+2025-10-01,RT-00485,Midwest,Ohio,Home & Living,Linen cushion cover,1,27.00,11.18
+2025-10-06,RT-00486,West,Washington,Beauty,Citrus body wash,2,22.48,8.28
+2025-09-01,RT-00487,South,Georgia,Beauty,Citrus body wash,2,22.67,7.98
+2025-08-23,RT-00488,West,Colorado,Apparel,Cotton knit sweater,2,79.78,35.85
+2025-02-01,RT-00489,West,Colorado,Electronics,Portable speaker,1,57.85,26.25
+2025-10-18,RT-00490,Midwest,Minnesota,Home & Living,Stoneware dinner set,1,72.47,33.84
+2025-08-25,RT-00491,South,Texas,Home & Living,Stoneware dinner set,1,75.47,34.06
+2025-11-08,RT-00492,West,Washington,Home & Living,Stoneware dinner set,3,76.34,35.15
+2025-11-23,RT-00493,Midwest,Minnesota,Apparel,Relaxed fit tee,2,26.28,8.79
+2025-01-20,RT-00494,Midwest,Illinois,Beauty,Citrus body wash,2,22.37,8.22
+2025-03-05,RT-00495,West,Colorado,Electronics,Portable speaker,3,56.79,26.14
+2025-10-27,RT-00496,Midwest,Illinois,Beauty,Botanical hand care set,2,34.66,13.84
+2025-09-28,RT-00497,Midwest,Ohio,Beauty,Botanical hand care set,1,36.88,14.24
+2025-11-02,RT-00498,Midwest,Ohio,Electronics,Wireless headphones,1,87.58,46.90
+2025-04-25,RT-00499,West,Colorado,Electronics,Portable speaker,3,56.58,27.96
+2025-12-04,RT-00500,Midwest,Minnesota,Beauty,Botanical hand care set,1,36.46,13.77
+2025-04-23,RT-00501,South,North Carolina,Beauty,Botanical hand care set,1,37.15,13.97
+2025-01-08,RT-00502,Northeast,Massachusetts,Apparel,Everyday tote bag,2,32.13,12.13
+2025-08-29,RT-00503,Midwest,Ohio,Beauty,Daily ritual face oil,1,47.52,19.29
+2025-10-09,RT-00504,South,Texas,Electronics,Portable speaker,2,61.85,26.47
+2025-10-17,RT-00505,Midwest,Illinois,Beauty,Daily ritual face oil,1,51.03,19.38
+2025-09-25,RT-00506,Northeast,New York,Beauty,Botanical hand care set,1,36.99,14.43
+2025-06-02,RT-00507,Northeast,Massachusetts,Electronics,Portable speaker,1,61.58,27.43
+2025-07-22,RT-00508,South,Georgia,Apparel,Cotton knit sweater,2,80.68,37.11
+2025-02-02,RT-00509,Northeast,New York,Beauty,Daily ritual face oil,1,46.05,19.72
+2025-06-10,RT-00510,South,Georgia,Home & Living,Stoneware dinner set,1,73.75,33.95
+2025-05-05,RT-00511,Midwest,Minnesota,Home & Living,Stoneware dinner set,3,73.95,33.77
+2025-10-16,RT-00512,South,Texas,Apparel,Relaxed fit tee,1,26.09,8.98
+2025-01-10,RT-00513,South,Texas,Home & Living,Linen cushion cover,1,26.38,10.72
+2025-10-20,RT-00514,Northeast,New York,Home & Living,Linen cushion cover,3,27.10,11.37
+2025-06-26,RT-00515,South,North Carolina,Beauty,Daily ritual face oil,1,46.15,18.97
+2025-03-09,RT-00516,Northeast,New York,Apparel,Relaxed fit tee,2,27.36,8.94
+2025-09-08,RT-00517,West,Colorado,Apparel,Relaxed fit tee,1,27.32,8.69
+2025-02-01,RT-00518,South,North Carolina,Apparel,Relaxed fit tee,1,26.67,8.71
+2025-12-05,RT-00519,West,Colorado,Beauty,Citrus body wash,2,22.19,8.02
+2025-08-02,RT-00520,Midwest,Minnesota,Home & Living,Stoneware dinner set,1,69.41,35.19
+2025-05-06,RT-00521,West,California,Home & Living,Stoneware dinner set,1,74.64,32.65
+2025-12-25,RT-00522,South,Georgia,Electronics,Smart desk light,1,45.31,19.13
+2025-11-09,RT-00523,South,Texas,Beauty,Botanical hand care set,1,37.23,13.64
+2025-08-24,RT-00524,West,California,Beauty,Botanical hand care set,1,35.71,13.84
+2025-09-15,RT-00525,Midwest,Minnesota,Home & Living,Linen cushion cover,1,28.08,10.80
+2025-02-11,RT-00526,South,Texas,Apparel,Cotton knit sweater,3,81.02,35.79
+2025-08-12,RT-00527,Northeast,Massachusetts,Electronics,Wireless headphones,1,92.00,44.19
+2025-05-04,RT-00528,Northeast,Pennsylvania,Beauty,Botanical hand care set,1,34.63,14.06
+2025-06-09,RT-00529,Midwest,Illinois,Apparel,Everyday tote bag,2,33.84,12.40
+2025-08-04,RT-00530,Northeast,Pennsylvania,Beauty,Citrus body wash,2,23.29,7.84
+2025-04-01,RT-00531,Midwest,Ohio,Home & Living,Glass table lamp,2,67.20,29.86
+2025-04-25,RT-00532,West,California,Electronics,Portable speaker,1,55.68,27.10
+2025-05-21,RT-00533,West,California,Apparel,Cotton knit sweater,1,85.01,37.01
+2025-08-14,RT-00534,West,Colorado,Apparel,Relaxed fit tee,1,27.02,8.67
+2025-06-01,RT-00535,South,Texas,Home & Living,Linen cushion cover,1,26.54,10.88
+2025-06-28,RT-00536,South,North Carolina,Beauty,Daily ritual face oil,3,47.81,19.29
+2025-06-14,RT-00537,West,California,Home & Living,Glass table lamp,1,65.48,29.12
+2025-05-06,RT-00538,Midwest,Illinois,Home & Living,Glass table lamp,2,60.87,30.09
+2025-12-26,RT-00539,Midwest,Ohio,Beauty,Daily ritual face oil,2,48.47,19.18
+2025-10-17,RT-00540,Northeast,New York,Beauty,Daily ritual face oil,4,48.93,18.96
+2025-10-02,RT-00541,Midwest,Minnesota,Apparel,Relaxed fit tee,4,25.06,9.03
+2025-01-30,RT-00542,Northeast,New York,Electronics,Portable speaker,1,55.56,27.83
+2025-12-12,RT-00543,West,Colorado,Apparel,Cotton knit sweater,1,83.03,36.97
+2025-07-05,RT-00544,Northeast,Pennsylvania,Electronics,Smart desk light,1,44.30,19.35
+2025-12-12,RT-00545,Midwest,Illinois,Apparel,Everyday tote bag,1,32.20,12.22
+2025-11-15,RT-00546,West,California,Electronics,Smart desk light,1,40.46,18.38
+2025-02-19,RT-00547,West,California,Home & Living,Linen cushion cover,3,28.06,10.93
+2025-07-24,RT-00548,South,North Carolina,Electronics,Wireless headphones,3,94.30,45.91
+2025-11-08,RT-00549,Northeast,New York,Home & Living,Linen cushion cover,1,27.28,11.29
+2025-05-16,RT-00550,Northeast,New York,Electronics,Smart desk light,1,43.79,18.48
+2025-05-16,RT-00551,West,Washington,Beauty,Botanical hand care set,3,36.15,13.71
+2025-08-06,RT-00552,South,Texas,Apparel,Cotton knit sweater,2,85.50,37.32
+2025-08-19,RT-00553,South,Georgia,Apparel,Relaxed fit tee,2,27.30,8.83
+2025-02-10,RT-00554,Northeast,New York,Apparel,Cotton knit sweater,3,86.06,36.45
+2025-08-15,RT-00555,South,Texas,Beauty,Citrus body wash,1,23.43,8.06
+2025-06-10,RT-00556,West,Colorado,Apparel,Everyday tote bag,3,33.29,12.17
+2025-10-08,RT-00557,South,North Carolina,Apparel,Everyday tote bag,2,30.23,12.33
+2025-07-16,RT-00558,South,Texas,Electronics,Portable speaker,1,58.65,26.96
+2025-12-25,RT-00559,Northeast,Pennsylvania,Home & Living,Glass table lamp,3,66.20,28.00
+2025-12-01,RT-00560,Northeast,Massachusetts,Home & Living,Glass table lamp,1,65.65,30.01
+2025-05-16,RT-00561,Midwest,Illinois,Apparel,Everyday tote bag,1,31.36,11.78
+2025-04-20,RT-00562,Northeast,New York,Beauty,Citrus body wash,1,21.31,8.32
+2025-07-12,RT-00563,South,Georgia,Electronics,Portable speaker,3,56.23,27.70
+2025-07-10,RT-00564,Northeast,Massachusetts,Beauty,Botanical hand care set,1,36.34,14.52
+2025-07-19,RT-00565,West,Washington,Apparel,Everyday tote bag,1,30.74,11.71
+2025-01-10,RT-00566,Northeast,Massachusetts,Beauty,Botanical hand care set,1,36.12,13.56
+2025-01-30,RT-00567,Northeast,New York,Home & Living,Linen cushion cover,2,27.31,10.72
+2025-10-16,RT-00568,South,Texas,Home & Living,Stoneware dinner set,1,68.50,33.47
+2025-12-02,RT-00569,South,North Carolina,Home & Living,Linen cushion cover,1,27.03,10.58
+2025-06-16,RT-00570,West,Washington,Home & Living,Linen cushion cover,2,28.28,11.31
+2025-10-13,RT-00571,Midwest,Minnesota,Home & Living,Glass table lamp,1,60.35,28.41
+2025-04-26,RT-00572,West,California,Home & Living,Stoneware dinner set,2,74.73,34.56
+2025-05-31,RT-00573,Northeast,Massachusetts,Home & Living,Linen cushion cover,1,28.67,10.60
+2025-03-06,RT-00574,Northeast,Massachusetts,Beauty,Daily ritual face oil,3,49.21,18.69
+2025-10-15,RT-00575,Midwest,Minnesota,Electronics,Wireless headphones,1,89.54,47.08
+2025-12-17,RT-00576,Northeast,Pennsylvania,Apparel,Relaxed fit tee,2,27.35,9.18
+2025-11-03,RT-00577,Midwest,Ohio,Electronics,Portable speaker,2,61.69,26.19
+2025-11-21,RT-00578,West,Washington,Home & Living,Glass table lamp,1,67.80,29.25
+2025-12-15,RT-00579,West,Colorado,Apparel,Relaxed fit tee,1,27.78,9.31
+2025-04-06,RT-00580,South,North Carolina,Apparel,Everyday tote bag,1,31.74,12.41
+2025-12-12,RT-00581,Midwest,Illinois,Home & Living,Linen cushion cover,2,27.11,11.18
+2025-04-15,RT-00582,South,Georgia,Electronics,Wireless headphones,1,92.45,46.91
+2025-04-26,RT-00583,South,Texas,Home & Living,Linen cushion cover,2,28.75,10.90
+2025-01-23,RT-00584,South,North Carolina,Home & Living,Stoneware dinner set,1,69.02,35.23
+2025-12-28,RT-00585,Northeast,Pennsylvania,Electronics,Smart desk light,2,40.72,19.73
+2025-12-07,RT-00586,Northeast,New York,Apparel,Cotton knit sweater,1,80.24,37.08
+2025-06-15,RT-00587,Midwest,Illinois,Beauty,Botanical hand care set,1,35.63,13.86
+2025-05-17,RT-00588,West,Colorado,Beauty,Botanical hand care set,2,38.45,13.47
+2025-02-12,RT-00589,Midwest,Illinois,Beauty,Citrus body wash,1,22.22,7.77
+2025-11-25,RT-00590,West,California,Apparel,Everyday tote bag,1,31.68,12.43
+2025-01-16,RT-00591,West,California,Home & Living,Stoneware dinner set,1,68.98,34.55
+2025-03-24,RT-00592,Midwest,Ohio,Apparel,Everyday tote bag,2,30.96,12.20
+2025-12-22,RT-00593,South,Georgia,Apparel,Cotton knit sweater,1,83.01,36.91
+2025-06-25,RT-00594,Midwest,Illinois,Electronics,Wireless headphones,1,89.01,46.89
+2025-12-10,RT-00595,Northeast,Massachusetts,Apparel,Cotton knit sweater,3,79.88,34.88
+2025-06-21,RT-00596,Midwest,Minnesota,Electronics,Smart desk light,1,44.89,18.87
+2025-02-09,RT-00597,Midwest,Ohio,Apparel,Relaxed fit tee,2,26.17,9.19
+2025-07-05,RT-00598,West,Colorado,Apparel,Everyday tote bag,1,32.28,11.73
+2025-06-03,RT-00599,Northeast,Massachusetts,Home & Living,Glass table lamp,4,63.38,28.41
+2025-07-13,RT-00600,South,Georgia,Home & Living,Linen cushion cover,1,29.47,11.39
+2025-12-29,RT-00601,Northeast,Massachusetts,Beauty,Daily ritual face oil,4,47.96,18.53
+2025-03-06,RT-00602,Northeast,New York,Beauty,Citrus body wash,2,23.28,8.26
+2025-07-28,RT-00603,West,California,Beauty,Botanical hand care set,1,34.39,13.68
+2025-08-04,RT-00604,South,Georgia,Beauty,Daily ritual face oil,1,47.87,19.14
+2025-08-02,RT-00605,Northeast,Pennsylvania,Apparel,Cotton knit sweater,1,85.66,36.19
+2025-10-22,RT-00606,Midwest,Minnesota,Home & Living,Stoneware dinner set,2,71.60,35.16
+2025-12-19,RT-00607,Northeast,New York,Beauty,Daily ritual face oil,1,48.26,18.29
+2025-10-18,RT-00608,West,Colorado,Home & Living,Glass table lamp,1,67.87,28.66
+2025-10-20,RT-00609,West,Colorado,Home & Living,Glass table lamp,2,64.09,30.00
+2025-03-29,RT-00610,Northeast,Massachusetts,Beauty,Botanical hand care set,1,34.88,14.55
+2025-10-29,RT-00611,Northeast,Pennsylvania,Home & Living,Glass table lamp,2,65.50,29.44
+2025-02-17,RT-00612,Northeast,Pennsylvania,Apparel,Everyday tote bag,1,31.13,12.27
+2025-03-23,RT-00613,West,Colorado,Home & Living,Linen cushion cover,1,28.48,11.29
+2025-10-23,RT-00614,Midwest,Ohio,Apparel,Relaxed fit tee,1,24.82,8.95
+2025-01-19,RT-00615,West,California,Apparel,Everyday tote bag,2,33.56,12.46
+2025-08-11,RT-00616,South,North Carolina,Electronics,Wireless headphones,4,93.30,47.79
+2025-11-08,RT-00617,Midwest,Ohio,Electronics,Portable speaker,2,58.91,27.66
+2025-02-06,RT-00618,Northeast,New York,Beauty,Botanical hand care set,1,37.13,13.44
+2025-10-10,RT-00619,Northeast,New York,Beauty,Daily ritual face oil,1,49.34,19.26
+2025-11-23,RT-00620,Northeast,Pennsylvania,Home & Living,Glass table lamp,2,66.54,29.31
+2025-08-09,RT-00621,Northeast,Massachusetts,Beauty,Daily ritual face oil,2,45.88,19.37
+2025-12-16,RT-00622,West,California,Beauty,Botanical hand care set,3,34.52,13.84
+2025-02-15,RT-00623,Northeast,Massachusetts,Home & Living,Glass table lamp,1,61.91,28.50
+2025-03-11,RT-00624,Northeast,Pennsylvania,Electronics,Smart desk light,2,41.35,18.73
+2025-05-16,RT-00625,Midwest,Ohio,Beauty,Botanical hand care set,1,35.83,13.72
+2025-08-16,RT-00626,Midwest,Minnesota,Electronics,Portable speaker,2,60.77,27.80
+2025-08-30,RT-00627,Midwest,Ohio,Home & Living,Stoneware dinner set,2,71.97,34.80
+2025-06-08,RT-00628,West,Colorado,Electronics,Portable speaker,2,55.32,26.32
+2025-02-08,RT-00629,West,Washington,Beauty,Daily ritual face oil,2,46.06,18.86
+2025-07-23,RT-00630,Midwest,Ohio,Apparel,Relaxed fit tee,1,26.60,9.21
+2025-03-09,RT-00631,Midwest,Illinois,Beauty,Daily ritual face oil,1,51.17,19.73
+2025-04-01,RT-00632,South,North Carolina,Apparel,Relaxed fit tee,1,27.12,8.98
+2025-12-04,RT-00633,West,Washington,Electronics,Wireless headphones,2,87.74,44.93
+2025-12-04,RT-00634,Midwest,Illinois,Home & Living,Linen cushion cover,2,26.74,10.57
+2025-10-18,RT-00635,West,California,Beauty,Daily ritual face oil,1,45.77,18.94
+2025-04-10,RT-00636,South,Georgia,Beauty,Citrus body wash,1,22.67,8.25
+2025-07-28,RT-00637,Northeast,Pennsylvania,Electronics,Portable speaker,1,59.06,26.17
+2025-08-04,RT-00638,West,California,Beauty,Daily ritual face oil,1,45.68,18.65
+2025-04-15,RT-00639,Northeast,Massachusetts,Home & Living,Glass table lamp,2,66.22,30.01
+2025-05-26,RT-00640,Midwest,Minnesota,Home & Living,Stoneware dinner set,3,75.99,34.79
+2025-09-28,RT-00641,West,California,Home & Living,Linen cushion cover,2,27.33,10.84
+2025-10-21,RT-00642,Midwest,Illinois,Home & Living,Linen cushion cover,1,27.47,11.02
+2025-12-21,RT-00643,Midwest,Ohio,Home & Living,Linen cushion cover,1,29.09,11.09
+2025-12-30,RT-00644,West,Colorado,Electronics,Wireless headphones,3,89.02,46.50
+2025-07-12,RT-00645,Midwest,Ohio,Home & Living,Glass table lamp,1,62.36,29.63
+2025-09-25,RT-00646,Northeast,Massachusetts,Home & Living,Stoneware dinner set,1,70.41,32.81
+2025-11-05,RT-00647,West,Washington,Electronics,Smart desk light,1,45.28,19.30
+2025-03-28,RT-00648,Northeast,Pennsylvania,Apparel,Everyday tote bag,3,31.27,11.94
+2025-10-08,RT-00649,Northeast,Massachusetts,Beauty,Citrus body wash,1,21.34,7.81
+2025-06-07,RT-00650,Midwest,Illinois,Beauty,Botanical hand care set,1,35.63,13.45
+2025-06-20,RT-00651,Midwest,Ohio,Beauty,Daily ritual face oil,1,50.37,18.66
+2025-06-08,RT-00652,Midwest,Illinois,Home & Living,Stoneware dinner set,1,70.25,34.68
+2025-07-23,RT-00653,West,California,Electronics,Portable speaker,2,57.34,27.10
+2025-05-08,RT-00654,Northeast,Pennsylvania,Beauty,Daily ritual face oil,2,46.09,19.04
+2025-04-30,RT-00655,West,California,Electronics,Wireless headphones,1,84.57,45.69
+2025-10-29,RT-00656,Midwest,Illinois,Beauty,Daily ritual face oil,1,47.97,18.85
+2025-08-28,RT-00657,Midwest,Ohio,Beauty,Citrus body wash,1,22.22,8.00
+2025-02-25,RT-00658,Northeast,Massachusetts,Beauty,Daily ritual face oil,1,46.35,19.14
+2025-03-14,RT-00659,South,North Carolina,Electronics,Smart desk light,1,44.85,19.15
+2025-05-06,RT-00660,Midwest,Minnesota,Beauty,Daily ritual face oil,1,50.47,18.61
+2025-09-17,RT-00661,Northeast,Pennsylvania,Home & Living,Stoneware dinner set,1,70.25,32.99
+2025-05-31,RT-00662,South,Georgia,Apparel,Relaxed fit tee,2,24.80,8.65
+2025-07-03,RT-00663,West,California,Electronics,Portable speaker,2,61.85,27.31
+2025-12-26,RT-00664,West,Washington,Home & Living,Linen cushion cover,4,26.80,11.32
+2025-04-23,RT-00665,Midwest,Illinois,Electronics,Smart desk light,1,41.88,18.24
+2025-01-17,RT-00666,West,Washington,Beauty,Daily ritual face oil,1,48.71,18.46
+2025-01-28,RT-00667,West,Colorado,Beauty,Citrus body wash,2,23.20,8.08
+2025-10-10,RT-00668,Midwest,Minnesota,Home & Living,Glass table lamp,1,64.49,28.84
+2025-01-27,RT-00669,West,Colorado,Home & Living,Stoneware dinner set,1,71.68,32.93
+2025-05-11,RT-00670,West,Washington,Beauty,Citrus body wash,1,22.26,7.97
+2025-09-08,RT-00671,West,California,Home & Living,Glass table lamp,2,60.32,29.32
+2025-03-04,RT-00672,West,California,Apparel,Relaxed fit tee,2,25.99,8.91
+2025-05-27,RT-00673,Midwest,Illinois,Electronics,Smart desk light,1,42.28,18.82
+2025-12-18,RT-00674,Midwest,Ohio,Apparel,Relaxed fit tee,2,25.98,9.14
+2025-01-11,RT-00675,West,Colorado,Home & Living,Linen cushion cover,2,27.46,10.80
+2025-12-24,RT-00676,South,Georgia,Beauty,Daily ritual face oil,1,50.30,19.46
+2025-06-05,RT-00677,South,North Carolina,Apparel,Relaxed fit tee,1,25.99,9.01
+2025-09-18,RT-00678,Midwest,Illinois,Home & Living,Glass table lamp,2,61.17,29.26
+2025-10-03,RT-00679,South,Texas,Apparel,Cotton knit sweater,1,83.01,35.28
+2025-11-23,RT-00680,South,North Carolina,Electronics,Wireless headphones,1,89.24,46.76
+2025-06-12,RT-00681,South,Texas,Home & Living,Linen cushion cover,1,29.00,10.89
+2025-03-02,RT-00682,West,California,Electronics,Portable speaker,1,60.90,27.30
+2025-11-10,RT-00683,Midwest,Minnesota,Electronics,Wireless headphones,1,85.72,45.21
+2025-10-26,RT-00684,South,North Carolina,Apparel,Relaxed fit tee,1,27.18,9.10
+2025-11-21,RT-00685,Midwest,Illinois,Beauty,Botanical hand care set,1,34.68,13.78
+2025-12-19,RT-00686,South,Texas,Electronics,Portable speaker,1,55.00,26.53
+2025-11-18,RT-00687,Northeast,Massachusetts,Apparel,Relaxed fit tee,1,25.15,9.17
+2025-12-29,RT-00688,Northeast,New York,Electronics,Wireless headphones,2,85.08,47.60
+2025-11-14,RT-00689,South,North Carolina,Electronics,Portable speaker,1,56.54,26.65
+2025-08-10,RT-00690,Northeast,New York,Electronics,Portable speaker,1,60.56,26.86
+2025-08-27,RT-00691,Midwest,Minnesota,Apparel,Relaxed fit tee,1,27.61,9.09
+2025-10-10,RT-00692,Northeast,New York,Electronics,Smart desk light,1,41.96,18.48
+2025-03-16,RT-00693,South,Georgia,Home & Living,Stoneware dinner set,1,75.99,34.92
+2025-12-07,RT-00694,South,Georgia,Apparel,Cotton knit sweater,1,82.39,36.06
+2025-08-28,RT-00695,Northeast,New York,Electronics,Wireless headphones,3,92.05,44.34
+2025-05-17,RT-00696,West,California,Home & Living,Linen cushion cover,1,28.87,11.29
+2025-04-26,RT-00697,Northeast,Massachusetts,Apparel,Relaxed fit tee,1,25.63,8.78
+2025-06-17,RT-00698,West,Colorado,Home & Living,Stoneware dinner set,3,72.44,32.99
+2025-09-03,RT-00699,South,Georgia,Electronics,Wireless headphones,1,86.35,45.14
+2025-01-10,RT-00700,Northeast,Pennsylvania,Electronics,Wireless headphones,2,87.18,44.71
+2025-09-08,RT-00701,Midwest,Ohio,Home & Living,Linen cushion cover,1,29.29,11.25
+2025-09-15,RT-00702,Midwest,Ohio,Electronics,Smart desk light,1,44.62,18.58
+2025-03-28,RT-00703,South,North Carolina,Home & Living,Glass table lamp,2,66.01,28.10
+2025-01-18,RT-00704,South,North Carolina,Home & Living,Stoneware dinner set,1,70.23,33.40
+2025-05-30,RT-00705,South,Georgia,Home & Living,Stoneware dinner set,1,70.85,34.06
+2025-01-02,RT-00706,West,Colorado,Beauty,Daily ritual face oil,1,50.60,19.41
+2025-09-10,RT-00707,Northeast,New York,Electronics,Smart desk light,1,42.84,18.64
+2025-12-31,RT-00708,South,North Carolina,Home & Living,Stoneware dinner set,1,68.21,34.12
+2025-11-01,RT-00709,Northeast,New York,Beauty,Citrus body wash,2,23.33,7.77
+2025-07-03,RT-00710,Northeast,Pennsylvania,Apparel,Cotton knit sweater,1,88.59,35.21
+2025-10-29,RT-00711,South,Texas,Home & Living,Glass table lamp,2,67.60,28.82
+2025-04-03,RT-00712,West,California,Home & Living,Stoneware dinner set,2,73.91,33.52
+2025-03-11,RT-00713,Midwest,Ohio,Apparel,Everyday tote bag,1,31.88,11.65
+2025-12-06,RT-00714,West,California,Apparel,Everyday tote bag,1,32.89,11.74
+2025-06-11,RT-00715,West,Colorado,Beauty,Citrus body wash,1,23.24,7.68
+2025-03-10,RT-00716,Midwest,Illinois,Home & Living,Linen cushion cover,1,29.63,11.01
+2025-12-04,RT-00717,Midwest,Minnesota,Beauty,Daily ritual face oil,1,47.71,19.01
+2025-12-12,RT-00718,West,California,Home & Living,Stoneware dinner set,1,69.70,32.82
+2025-12-07,RT-00719,Northeast,Massachusetts,Electronics,Portable speaker,1,56.27,26.22
+2025-01-08,RT-00720,Midwest,Illinois,Home & Living,Stoneware dinner set,1,73.85,35.34
+2025-12-19,RT-00721,West,Washington,Home & Living,Linen cushion cover,1,29.90,11.13
+2025-08-01,RT-00722,Northeast,Massachusetts,Electronics,Wireless headphones,2,90.90,44.73
+2025-09-11,RT-00723,Midwest,Ohio,Electronics,Wireless headphones,4,85.99,45.18
+2025-06-03,RT-00724,South,North Carolina,Beauty,Citrus body wash,1,22.86,7.90
+2025-01-21,RT-00725,Northeast,Massachusetts,Electronics,Smart desk light,4,41.28,18.76
+2025-12-21,RT-00726,South,Georgia,Home & Living,Glass table lamp,1,61.27,28.94
+2025-01-17,RT-00727,South,North Carolina,Home & Living,Linen cushion cover,1,28.81,10.56
+2025-09-28,RT-00728,Northeast,Massachusetts,Apparel,Cotton knit sweater,2,86.42,36.50
+2025-05-19,RT-00729,South,Texas,Electronics,Smart desk light,2,44.58,18.56
+2025-03-24,RT-00730,South,Georgia,Beauty,Citrus body wash,1,21.72,8.20
+2025-12-20,RT-00731,Midwest,Illinois,Home & Living,Glass table lamp,2,63.15,29.81
+2025-08-01,RT-00732,West,California,Home & Living,Linen cushion cover,3,27.57,11.12
+2025-07-02,RT-00733,West,Colorado,Home & Living,Glass table lamp,2,63.11,28.69
+2025-04-07,RT-00734,South,North Carolina,Beauty,Citrus body wash,2,22.72,8.21
+2025-12-17,RT-00735,West,Washington,Home & Living,Linen cushion cover,2,29.79,10.91
+2025-11-11,RT-00736,West,California,Electronics,Wireless headphones,1,90.54,47.05
+2025-12-06,RT-00737,South,North Carolina,Beauty,Daily ritual face oil,2,49.71,18.78
+2025-05-06,RT-00738,Northeast,New York,Electronics,Portable speaker,1,56.98,28.00
+2025-12-25,RT-00739,Midwest,Minnesota,Electronics,Smart desk light,2,43.73,18.68
+2025-05-25,RT-00740,Midwest,Illinois,Apparel,Everyday tote bag,2,30.43,11.87
+2025-04-17,RT-00741,South,North Carolina,Beauty,Botanical hand care set,1,33.86,13.57
+2025-09-11,RT-00742,Midwest,Minnesota,Apparel,Cotton knit sweater,1,79.01,36.77
+2025-07-28,RT-00743,West,California,Apparel,Everyday tote bag,1,31.77,11.59
+2025-01-23,RT-00744,Northeast,Pennsylvania,Apparel,Relaxed fit tee,1,27.72,9.20
+2025-10-06,RT-00745,Midwest,Minnesota,Home & Living,Linen cushion cover,1,27.58,10.95
+2025-10-31,RT-00746,Midwest,Minnesota,Home & Living,Linen cushion cover,1,28.76,11.24
+2025-07-20,RT-00747,Northeast,New York,Apparel,Relaxed fit tee,2,26.37,8.87
+2025-12-25,RT-00748,Midwest,Illinois,Beauty,Botanical hand care set,1,37.34,14.02
+2025-11-12,RT-00749,South,Georgia,Apparel,Cotton knit sweater,1,84.35,37.03
+2025-10-31,RT-00750,West,Washington,Electronics,Wireless headphones,1,84.87,44.39
+2025-01-13,RT-00751,West,California,Electronics,Wireless headphones,2,90.74,45.46
+2025-01-03,RT-00752,Midwest,Ohio,Electronics,Smart desk light,4,44.25,19.58
+2025-02-04,RT-00753,Northeast,Pennsylvania,Electronics,Wireless headphones,1,92.74,44.39
+2025-11-10,RT-00754,West,Washington,Beauty,Daily ritual face oil,1,49.63,19.08
+2025-10-13,RT-00755,Northeast,New York,Beauty,Daily ritual face oil,2,45.65,18.26
+2025-06-21,RT-00756,South,Texas,Beauty,Citrus body wash,1,20.99,7.71
+2025-11-23,RT-00757,West,Washington,Beauty,Daily ritual face oil,1,46.88,18.52
+2025-06-17,RT-00758,Midwest,Ohio,Electronics,Portable speaker,1,60.45,27.88
+2025-06-25,RT-00759,Northeast,Pennsylvania,Home & Living,Linen cushion cover,1,28.32,10.77
+2025-10-08,RT-00760,South,Georgia,Home & Living,Stoneware dinner set,1,68.66,33.66
+2025-05-27,RT-00761,West,Washington,Beauty,Botanical hand care set,3,35.88,13.54
+2025-02-01,RT-00762,Midwest,Illinois,Home & Living,Linen cushion cover,1,26.74,10.60
+2025-06-17,RT-00763,South,Texas,Beauty,Botanical hand care set,4,37.95,14.45
+2025-02-25,RT-00764,South,Georgia,Apparel,Everyday tote bag,2,31.03,11.74
+2025-08-11,RT-00765,Northeast,New York,Apparel,Relaxed fit tee,2,25.15,8.81
+2025-12-06,RT-00766,South,Georgia,Beauty,Citrus body wash,2,21.06,8.30
+2025-08-19,RT-00767,Midwest,Illinois,Beauty,Daily ritual face oil,2,49.45,19.30
+2025-07-10,RT-00768,Northeast,Massachusetts,Beauty,Botanical hand care set,1,34.77,14.06
+2025-08-22,RT-00769,Midwest,Ohio,Beauty,Daily ritual face oil,2,45.52,18.60
+2025-09-30,RT-00770,Midwest,Minnesota,Beauty,Daily ritual face oil,1,50.18,18.82
+2025-10-07,RT-00771,West,Colorado,Apparel,Relaxed fit tee,1,27.81,8.81
+2025-06-11,RT-00772,Northeast,Pennsylvania,Beauty,Citrus body wash,1,22.99,7.88
+2025-08-22,RT-00773,Northeast,Pennsylvania,Apparel,Cotton knit sweater,4,82.24,35.54
+2025-03-29,RT-00774,South,Texas,Beauty,Citrus body wash,2,21.13,8.23
+2025-09-07,RT-00775,West,Colorado,Home & Living,Glass table lamp,1,61.30,30.12
+2025-07-23,RT-00776,West,California,Electronics,Smart desk light,3,42.06,19.10
+2025-01-08,RT-00777,South,Georgia,Home & Living,Stoneware dinner set,1,68.51,35.18
+2025-08-14,RT-00778,South,Georgia,Beauty,Daily ritual face oil,1,47.34,18.68
+2025-06-12,RT-00779,Northeast,Massachusetts,Home & Living,Glass table lamp,2,66.12,29.78
+2025-07-13,RT-00780,Midwest,Ohio,Beauty,Botanical hand care set,3,36.31,14.24
+2025-11-21,RT-00781,West,California,Apparel,Everyday tote bag,2,33.63,11.60
+2025-09-23,RT-00782,Northeast,Massachusetts,Home & Living,Glass table lamp,1,60.50,29.43
+2025-03-06,RT-00783,Midwest,Minnesota,Home & Living,Glass table lamp,1,64.51,29.95
+2025-10-20,RT-00784,South,North Carolina,Electronics,Wireless headphones,3,86.74,44.97
+2025-07-14,RT-00785,Northeast,Massachusetts,Home & Living,Glass table lamp,1,63.27,29.11
+2025-07-04,RT-00786,South,Texas,Home & Living,Stoneware dinner set,2,72.51,33.66
+2025-03-25,RT-00787,West,Washington,Apparel,Everyday tote bag,1,33.23,12.32
+2025-05-18,RT-00788,Northeast,Pennsylvania,Electronics,Smart desk light,1,45.54,19.34
+2025-08-17,RT-00789,Midwest,Ohio,Apparel,Everyday tote bag,1,30.23,12.47
+2025-12-06,RT-00790,West,California,Apparel,Cotton knit sweater,2,85.66,36.25
+2025-02-07,RT-00791,South,Texas,Electronics,Portable speaker,1,61.36,26.55
+2025-07-24,RT-00792,Midwest,Illinois,Electronics,Portable speaker,1,55.38,26.97
+2025-07-06,RT-00793,Midwest,Illinois,Beauty,Citrus body wash,1,20.84,7.72
+2025-03-24,RT-00794,Midwest,Minnesota,Home & Living,Stoneware dinner set,1,70.96,33.24
+2025-12-21,RT-00795,West,California,Beauty,Citrus body wash,1,23.49,8.15
+2025-03-25,RT-00796,Northeast,Massachusetts,Home & Living,Glass table lamp,1,61.42,27.87
+2025-02-05,RT-00797,South,Texas,Electronics,Smart desk light,1,41.69,19.12
+2025-05-06,RT-00798,West,Washington,Electronics,Smart desk light,1,43.27,19.23
+2025-11-21,RT-00799,South,North Carolina,Apparel,Everyday tote bag,1,33.00,12.07
+2025-10-16,RT-00800,South,North Carolina,Beauty,Daily ritual face oil,3,51.05,19.57
+2025-10-19,RT-00801,Northeast,New York,Apparel,Relaxed fit tee,1,26.13,9.27
+2025-02-11,RT-00802,West,Colorado,Apparel,Everyday tote bag,1,34.02,11.52
+2025-05-10,RT-00803,Northeast,New York,Beauty,Botanical hand care set,1,35.77,14.08
+2025-08-01,RT-00804,Northeast,New York,Apparel,Everyday tote bag,1,31.20,12.21
+2025-07-28,RT-00805,South,Texas,Home & Living,Glass table lamp,1,62.58,29.56
+2025-03-04,RT-00806,Northeast,Massachusetts,Home & Living,Stoneware dinner set,3,76.38,33.62
+2025-09-14,RT-00807,Midwest,Ohio,Home & Living,Linen cushion cover,3,28.35,11.30
+2025-12-31,RT-00808,Midwest,Illinois,Apparel,Everyday tote bag,1,32.32,12.25
+2025-08-25,RT-00809,Midwest,Illinois,Home & Living,Stoneware dinner set,3,68.57,32.68
+2025-06-21,RT-00810,Midwest,Minnesota,Electronics,Portable speaker,1,56.01,26.67
+2025-06-23,RT-00811,Midwest,Ohio,Home & Living,Linen cushion cover,4,27.18,10.95
+2025-01-12,RT-00812,Midwest,Illinois,Apparel,Relaxed fit tee,1,27.68,8.99
+2025-09-06,RT-00813,West,Colorado,Apparel,Relaxed fit tee,4,26.79,9.19
+2025-09-16,RT-00814,West,Washington,Apparel,Relaxed fit tee,2,24.98,8.82
+2025-08-14,RT-00815,South,North Carolina,Apparel,Everyday tote bag,1,32.58,12.14
+2025-04-22,RT-00816,Northeast,New York,Apparel,Cotton knit sweater,2,79.19,36.83
+2025-04-28,RT-00817,Northeast,New York,Beauty,Citrus body wash,1,20.69,8.05
+2025-06-02,RT-00818,Midwest,Minnesota,Home & Living,Stoneware dinner set,1,72.39,34.57
+2025-06-28,RT-00819,South,North Carolina,Beauty,Botanical hand care set,2,37.22,14.09
+2025-10-03,RT-00820,West,Colorado,Apparel,Relaxed fit tee,1,27.21,9.27
+2025-11-24,RT-00821,Northeast,Pennsylvania,Home & Living,Stoneware dinner set,2,69.11,33.49
+2025-05-04,RT-00822,West,Colorado,Home & Living,Linen cushion cover,1,29.04,11.00
+2025-09-14,RT-00823,West,Colorado,Apparel,Cotton knit sweater,1,88.23,36.21
+2025-09-16,RT-00824,South,North Carolina,Apparel,Cotton knit sweater,1,79.21,35.86
+2025-06-11,RT-00825,Northeast,Pennsylvania,Beauty,Botanical hand care set,2,35.69,14.10
+2025-11-01,RT-00826,Northeast,Pennsylvania,Apparel,Everyday tote bag,2,32.41,11.58
+2025-06-17,RT-00827,Midwest,Ohio,Apparel,Everyday tote bag,2,31.58,11.96
+2025-03-08,RT-00828,South,Texas,Beauty,Botanical hand care set,1,36.00,14.11
+2025-12-11,RT-00829,Midwest,Illinois,Electronics,Smart desk light,1,43.30,19.35
+2025-03-05,RT-00830,South,Georgia,Beauty,Botanical hand care set,1,34.34,14.52
+2025-11-06,RT-00831,Midwest,Minnesota,Electronics,Portable speaker,1,54.69,26.61
+2025-09-24,RT-00832,West,California,Apparel,Cotton knit sweater,1,81.86,34.88
+2025-09-04,RT-00833,Northeast,New York,Home & Living,Glass table lamp,3,61.65,28.49
+2025-02-04,RT-00834,Northeast,Pennsylvania,Beauty,Daily ritual face oil,3,51.15,18.95
+2025-01-25,RT-00835,Midwest,Minnesota,Home & Living,Stoneware dinner set,3,68.51,33.34
+2025-09-02,RT-00836,West,Washington,Home & Living,Linen cushion cover,1,26.87,11.36
+2025-10-09,RT-00837,South,Georgia,Apparel,Cotton knit sweater,1,86.67,36.21
+2025-07-22,RT-00838,Midwest,Minnesota,Beauty,Botanical hand care set,1,38.25,14.14
+2025-12-22,RT-00839,Northeast,New York,Beauty,Citrus body wash,3,20.86,7.97
+2025-04-18,RT-00840,West,California,Electronics,Wireless headphones,1,93.13,44.44
+2025-03-15,RT-00841,South,North Carolina,Electronics,Smart desk light,1,42.28,19.60
+2025-10-03,RT-00842,West,California,Electronics,Smart desk light,1,42.05,18.78
+2025-12-24,RT-00843,South,Georgia,Apparel,Relaxed fit tee,1,25.96,8.72
+2025-05-30,RT-00844,Northeast,Pennsylvania,Beauty,Citrus body wash,1,23.06,7.90
+2025-07-02,RT-00845,Northeast,Pennsylvania,Electronics,Wireless headphones,1,85.53,47.80
+2025-01-22,RT-00846,Midwest,Illinois,Beauty,Daily ritual face oil,1,45.63,19.54
+2025-03-31,RT-00847,Northeast,Pennsylvania,Home & Living,Linen cushion cover,1,27.85,11.43
+2025-10-09,RT-00848,Northeast,Pennsylvania,Home & Living,Stoneware dinner set,1,70.08,33.35
+2025-12-10,RT-00849,Northeast,Massachusetts,Beauty,Citrus body wash,1,21.07,7.80
+2025-10-08,RT-00850,South,Texas,Electronics,Portable speaker,2,55.77,27.84
+2025-03-05,RT-00851,South,Texas,Electronics,Smart desk light,3,43.71,19.53
+2025-12-12,RT-00852,Northeast,Massachusetts,Home & Living,Linen cushion cover,1,27.36,11.14
+2025-03-12,RT-00853,West,Washington,Home & Living,Linen cushion cover,1,27.97,11.40
+2025-05-08,RT-00854,Northeast,Massachusetts,Beauty,Daily ritual face oil,3,48.69,19.46
+2025-08-18,RT-00855,West,Colorado,Beauty,Botanical hand care set,1,34.08,14.43
+2025-02-17,RT-00856,Northeast,Massachusetts,Electronics,Smart desk light,1,41.27,19.29
+2025-03-27,RT-00857,Midwest,Illinois,Apparel,Everyday tote bag,1,32.56,11.92
+2025-05-06,RT-00858,West,California,Apparel,Cotton knit sweater,2,85.56,37.36
+2025-06-18,RT-00859,Northeast,Massachusetts,Electronics,Smart desk light,1,44.41,19.05
+2025-12-30,RT-00860,South,North Carolina,Apparel,Relaxed fit tee,2,26.95,8.67
+2025-01-27,RT-00861,Northeast,New York,Home & Living,Linen cushion cover,1,26.52,10.56
+2025-11-27,RT-00862,South,Texas,Apparel,Relaxed fit tee,1,27.64,8.91
+2025-11-19,RT-00863,West,California,Electronics,Portable speaker,1,59.60,26.28
+2025-10-30,RT-00864,South,North Carolina,Home & Living,Linen cushion cover,1,28.71,11.39
+2025-03-01,RT-00865,West,Washington,Home & Living,Stoneware dinner set,2,67.93,32.74
+2025-10-18,RT-00866,South,North Carolina,Electronics,Wireless headphones,1,87.03,46.87
+2025-12-20,RT-00867,South,North Carolina,Beauty,Citrus body wash,1,22.71,8.18
+2025-04-29,RT-00868,Northeast,New York,Apparel,Everyday tote bag,1,30.44,12.20
+2025-11-04,RT-00869,South,North Carolina,Beauty,Citrus body wash,1,23.16,8.13
+2025-06-05,RT-00870,Midwest,Illinois,Beauty,Daily ritual face oil,1,50.11,18.75
+2025-05-02,RT-00871,South,Georgia,Home & Living,Glass table lamp,1,65.54,28.61
+2025-08-05,RT-00872,South,Texas,Beauty,Daily ritual face oil,1,45.45,18.68
+2025-04-24,RT-00873,South,North Carolina,Beauty,Citrus body wash,1,22.40,8.16
+2025-03-13,RT-00874,South,North Carolina,Apparel,Cotton knit sweater,1,89.26,36.51
+2025-06-15,RT-00875,Midwest,Ohio,Apparel,Relaxed fit tee,1,25.51,9.29
+2025-03-28,RT-00876,West,Washington,Apparel,Cotton knit sweater,2,84.38,35.16
+2025-12-18,RT-00877,Midwest,Minnesota,Electronics,Smart desk light,1,45.34,19.30
+2025-08-21,RT-00878,West,Colorado,Beauty,Daily ritual face oil,1,48.46,18.54
+2025-09-06,RT-00879,West,Colorado,Home & Living,Linen cushion cover,1,26.73,11.34
+2025-07-19,RT-00880,South,North Carolina,Apparel,Cotton knit sweater,2,87.77,36.25
+2025-12-30,RT-00881,South,Georgia,Home & Living,Glass table lamp,2,65.56,29.19
+2025-02-02,RT-00882,South,North Carolina,Apparel,Relaxed fit tee,2,27.13,8.84
+2025-11-04,RT-00883,West,California,Electronics,Smart desk light,1,42.80,18.37
+2025-06-27,RT-00884,West,California,Beauty,Botanical hand care set,1,38.51,14.50
+2025-04-20,RT-00885,Midwest,Illinois,Beauty,Citrus body wash,1,21.07,7.88
+2025-09-22,RT-00886,West,Colorado,Electronics,Smart desk light,2,40.61,19.54
+2025-03-07,RT-00887,Northeast,Pennsylvania,Beauty,Botanical hand care set,3,37.26,13.82
+2025-08-19,RT-00888,South,Georgia,Apparel,Everyday tote bag,3,31.25,12.17
+2025-05-23,RT-00889,Midwest,Minnesota,Apparel,Relaxed fit tee,1,27.07,8.82
+2025-08-26,RT-00890,Northeast,New York,Beauty,Citrus body wash,4,21.54,7.90
+2025-11-25,RT-00891,South,Georgia,Electronics,Portable speaker,1,54.83,27.61
+2025-07-10,RT-00892,West,Colorado,Apparel,Relaxed fit tee,1,27.61,9.21
+2025-02-05,RT-00893,Northeast,New York,Home & Living,Stoneware dinner set,3,76.38,34.73
+2025-05-02,RT-00894,Midwest,Minnesota,Electronics,Wireless headphones,2,92.46,44.74
+2025-05-08,RT-00895,Northeast,New York,Electronics,Wireless headphones,3,90.37,47.71
+2025-12-17,RT-00896,Midwest,Ohio,Beauty,Daily ritual face oil,1,45.83,18.87
+2025-05-16,RT-00897,Northeast,Pennsylvania,Home & Living,Stoneware dinner set,2,68.42,32.80
+2025-10-16,RT-00898,West,Washington,Apparel,Relaxed fit tee,1,26.93,8.88
+2025-11-16,RT-00899,Northeast,New York,Apparel,Cotton knit sweater,1,79.65,35.45
+2025-07-15,RT-00900,Northeast,Massachusetts,Electronics,Smart desk light,2,43.37,18.80
+2025-12-09,RT-00901,Northeast,Massachusetts,Beauty,Botanical hand care set,1,35.51,13.96
+2025-02-23,RT-00902,Midwest,Minnesota,Home & Living,Glass table lamp,2,64.04,29.19
+2025-11-15,RT-00903,West,Washington,Electronics,Wireless headphones,1,86.27,47.06
+2025-12-23,RT-00904,Northeast,New York,Electronics,Wireless headphones,1,88.83,44.61
+2025-03-25,RT-00905,West,Washington,Electronics,Portable speaker,1,57.43,26.91
+2025-07-13,RT-00906,West,Washington,Home & Living,Linen cushion cover,1,28.58,10.95
+2025-08-01,RT-00907,Northeast,Massachusetts,Beauty,Botanical hand care set,1,36.54,14.43
+2025-08-28,RT-00908,West,Washington,Apparel,Relaxed fit tee,1,24.45,8.81
+2025-01-31,RT-00909,Northeast,Massachusetts,Beauty,Daily ritual face oil,4,47.31,18.49
+2025-04-09,RT-00910,South,Georgia,Electronics,Wireless headphones,4,89.11,45.69
+2025-03-28,RT-00911,West,Colorado,Beauty,Daily ritual face oil,2,51.05,18.98
+2025-12-31,RT-00912,Northeast,Pennsylvania,Beauty,Botanical hand care set,1,37.46,14.46
+2025-01-17,RT-00913,West,Washington,Apparel,Cotton knit sweater,1,88.63,35.81
+2025-03-09,RT-00914,Northeast,New York,Electronics,Smart desk light,1,45.67,18.99
+2025-11-29,RT-00915,Midwest,Minnesota,Beauty,Citrus body wash,2,20.83,7.77
+2025-07-28,RT-00916,Northeast,Massachusetts,Home & Living,Glass table lamp,4,65.20,27.93
+2025-07-29,RT-00917,South,North Carolina,Apparel,Cotton knit sweater,1,82.26,35.80
+2025-05-07,RT-00918,Northeast,Massachusetts,Apparel,Relaxed fit tee,1,24.71,8.86
+2025-08-07,RT-00919,West,California,Home & Living,Linen cushion cover,2,29.84,10.82
+2025-06-07,RT-00920,West,Colorado,Home & Living,Linen cushion cover,1,28.47,10.57
+2025-11-06,RT-00921,West,Colorado,Home & Living,Stoneware dinner set,2,76.42,33.41
+2025-03-20,RT-00922,South,Texas,Apparel,Relaxed fit tee,3,25.05,8.72
+2025-11-25,RT-00923,Northeast,Massachusetts,Home & Living,Linen cushion cover,1,28.70,11.43
+2025-04-25,RT-00924,Northeast,Massachusetts,Beauty,Botanical hand care set,3,35.79,14.31
+2025-10-26,RT-00925,Midwest,Ohio,Electronics,Smart desk light,2,40.54,19.53
+2025-12-14,RT-00926,Northeast,New York,Home & Living,Linen cushion cover,1,29.22,11.03
+2025-12-15,RT-00927,South,North Carolina,Electronics,Wireless headphones,1,89.85,47.47
+2025-09-18,RT-00928,Midwest,Ohio,Home & Living,Stoneware dinner set,2,74.24,34.65
+2025-10-27,RT-00929,Northeast,Massachusetts,Beauty,Botanical hand care set,2,37.81,14.42
+2025-06-12,RT-00930,West,California,Apparel,Relaxed fit tee,1,25.76,8.87
+2025-02-08,RT-00931,South,Georgia,Apparel,Cotton knit sweater,1,84.40,35.56
+2025-12-27,RT-00932,Midwest,Ohio,Home & Living,Glass table lamp,2,68.24,28.08
+2025-08-07,RT-00933,Midwest,Minnesota,Home & Living,Linen cushion cover,2,27.35,10.93
+2025-11-26,RT-00934,Midwest,Illinois,Electronics,Wireless headphones,1,91.74,46.25
+2025-10-26,RT-00935,Northeast,Massachusetts,Apparel,Cotton knit sweater,1,81.84,34.64
+2025-09-20,RT-00936,South,Texas,Beauty,Daily ritual face oil,3,51.30,19.01
+2025-12-10,RT-00937,West,California,Beauty,Daily ritual face oil,2,49.86,18.26
+2025-11-09,RT-00938,Midwest,Minnesota,Home & Living,Stoneware dinner set,1,76.67,33.91
+2025-12-04,RT-00939,Northeast,Massachusetts,Beauty,Citrus body wash,2,21.95,7.92
+2025-11-16,RT-00940,South,North Carolina,Home & Living,Linen cushion cover,1,27.18,10.64
+2025-11-28,RT-00941,South,Texas,Apparel,Relaxed fit tee,1,26.98,9.26
+2025-06-28,RT-00942,Midwest,Minnesota,Home & Living,Linen cushion cover,1,29.44,11.03
+2025-10-09,RT-00943,West,California,Beauty,Citrus body wash,2,20.98,7.74
+2025-05-29,RT-00944,Midwest,Minnesota,Electronics,Portable speaker,1,59.29,26.51
+2025-12-31,RT-00945,Northeast,New York,Electronics,Wireless headphones,2,89.36,44.89
+2025-11-19,RT-00946,Midwest,Ohio,Apparel,Cotton knit sweater,1,89.07,37.03
+2025-06-16,RT-00947,South,Texas,Beauty,Daily ritual face oil,1,47.23,19.75
+2025-11-20,RT-00948,Midwest,Ohio,Home & Living,Stoneware dinner set,1,70.95,33.75
+2025-06-05,RT-00949,Northeast,Massachusetts,Electronics,Portable speaker,1,54.61,26.57
+2025-04-07,RT-00950,Northeast,New York,Beauty,Citrus body wash,1,21.45,7.70
+2025-10-03,RT-00951,South,North Carolina,Home & Living,Linen cushion cover,1,29.62,11.21
+2025-02-06,RT-00952,Northeast,Pennsylvania,Apparel,Everyday tote bag,1,30.46,12.15
+2025-08-02,RT-00953,Northeast,New York,Home & Living,Linen cushion cover,1,26.89,11.20
+2025-04-09,RT-00954,South,Texas,Electronics,Portable speaker,1,56.81,27.91
+2025-08-27,RT-00955,Northeast,New York,Home & Living,Stoneware dinner set,1,73.94,34.29
+2025-04-06,RT-00956,South,North Carolina,Home & Living,Stoneware dinner set,1,72.10,35.32
+2025-08-22,RT-00957,South,Texas,Apparel,Relaxed fit tee,1,25.65,8.76
+2025-01-03,RT-00958,South,Georgia,Home & Living,Stoneware dinner set,1,70.46,33.63
+2025-08-04,RT-00959,Northeast,Pennsylvania,Apparel,Everyday tote bag,1,32.77,12.11
+2025-11-08,RT-00960,South,North Carolina,Electronics,Smart desk light,1,43.79,18.25
+2025-03-12,RT-00961,South,Texas,Home & Living,Linen cushion cover,1,29.19,10.71
+2025-08-01,RT-00962,South,Texas,Electronics,Wireless headphones,2,88.56,44.53
+2025-08-04,RT-00963,West,Colorado,Beauty,Botanical hand care set,2,37.74,13.75
+2025-06-14,RT-00964,South,Texas,Beauty,Botanical hand care set,1,37.69,13.64
+2025-04-26,RT-00965,Midwest,Minnesota,Apparel,Relaxed fit tee,2,26.68,8.84
+2025-04-13,RT-00966,Northeast,Pennsylvania,Beauty,Citrus body wash,1,21.71,8.22
+2025-07-07,RT-00967,South,Georgia,Beauty,Botanical hand care set,1,37.08,14.15
+2025-03-10,RT-00968,West,Colorado,Home & Living,Glass table lamp,1,65.28,27.99
+2025-01-03,RT-00969,Northeast,Massachusetts,Electronics,Wireless headphones,2,87.93,46.13
+2025-03-20,RT-00970,West,California,Home & Living,Glass table lamp,1,64.73,29.86
+2025-06-25,RT-00971,Northeast,Pennsylvania,Beauty,Daily ritual face oil,1,46.93,18.82
+2025-07-14,RT-00972,Northeast,Massachusetts,Electronics,Wireless headphones,1,86.85,45.73
+2025-07-08,RT-00973,South,Georgia,Home & Living,Linen cushion cover,1,27.76,10.83
+2025-12-03,RT-00974,Midwest,Minnesota,Electronics,Wireless headphones,1,89.95,47.63
+2025-09-06,RT-00975,South,Georgia,Electronics,Smart desk light,4,43.56,19.33
+2025-07-17,RT-00976,South,North Carolina,Apparel,Everyday tote bag,2,31.30,12.37
+2025-04-11,RT-00977,South,Georgia,Home & Living,Linen cushion cover,1,27.80,10.74
+2025-01-18,RT-00978,Northeast,New York,Apparel,Cotton knit sweater,2,88.13,36.39
+2025-07-16,RT-00979,Midwest,Ohio,Beauty,Botanical hand care set,1,36.39,13.84
+2025-04-24,RT-00980,Midwest,Ohio,Beauty,Botanical hand care set,1,34.16,14.45
+2025-11-27,RT-00981,West,Washington,Home & Living,Glass table lamp,1,60.58,28.58
+2025-12-06,RT-00982,Midwest,Illinois,Beauty,Botanical hand care set,2,37.33,13.81
+2025-06-19,RT-00983,Midwest,Illinois,Beauty,Citrus body wash,1,21.01,8.06
+2025-09-08,RT-00984,South,North Carolina,Electronics,Wireless headphones,2,87.39,46.74
+2025-12-10,RT-00985,Midwest,Illinois,Beauty,Botanical hand care set,2,36.90,13.69
+2025-11-04,RT-00986,Midwest,Minnesota,Apparel,Cotton knit sweater,1,88.52,35.16
+2025-12-26,RT-00987,Midwest,Minnesota,Electronics,Wireless headphones,1,86.27,45.17
+2025-12-28,RT-00988,West,California,Apparel,Everyday tote bag,1,31.34,12.39
+2025-08-01,RT-00989,Midwest,Minnesota,Apparel,Relaxed fit tee,1,27.46,9.21
+2025-07-03,RT-00990,Midwest,Illinois,Beauty,Citrus body wash,1,21.71,7.96
+2025-10-01,RT-00991,West,Washington,Apparel,Everyday tote bag,1,32.63,11.90
+2025-04-11,RT-00992,South,North Carolina,Home & Living,Glass table lamp,2,64.90,28.24
+2025-11-13,RT-00993,Northeast,New York,Apparel,Relaxed fit tee,1,27.44,8.81
+2025-09-19,RT-00994,West,Washington,Apparel,Cotton knit sweater,3,86.56,36.12
+2025-11-02,RT-00995,South,North Carolina,Electronics,Smart desk light,2,42.51,18.33
+2025-07-20,RT-00996,South,North Carolina,Electronics,Portable speaker,1,62.05,26.45
+2025-02-16,RT-00997,West,Colorado,Beauty,Daily ritual face oil,4,47.97,18.37
+2025-07-26,RT-00998,West,Washington,Home & Living,Glass table lamp,1,66.57,28.69
+2025-05-22,RT-00999,South,North Carolina,Apparel,Cotton knit sweater,1,80.70,35.47
+2025-03-24,RT-01000,South,Texas,Apparel,Relaxed fit tee,1,27.00,9.26
+2025-09-19,RT-01001,Midwest,Minnesota,Beauty,Citrus body wash,4,22.72,7.77
+2025-09-25,RT-01002,South,Texas,Home & Living,Linen cushion cover,1,26.44,11.00
+2025-09-28,RT-01003,Northeast,New York,Home & Living,Stoneware dinner set,1,76.28,34.04
+2025-09-07,RT-01004,South,Texas,Home & Living,Glass table lamp,1,66.57,28.56
+2025-10-10,RT-01005,South,Texas,Home & Living,Stoneware dinner set,2,75.65,33.19
+2025-05-01,RT-01006,West,Washington,Electronics,Portable speaker,1,56.00,27.41
+2025-11-29,RT-01007,Northeast,Pennsylvania,Apparel,Cotton knit sweater,1,86.98,35.65
+2025-10-08,RT-01008,South,North Carolina,Apparel,Relaxed fit tee,1,26.37,8.79
+2025-12-04,RT-01009,Midwest,Ohio,Electronics,Portable speaker,4,59.86,26.37
+2025-01-05,RT-01010,South,North Carolina,Apparel,Cotton knit sweater,2,79.91,34.95
+2025-01-06,RT-01011,South,Texas,Beauty,Daily ritual face oil,1,48.96,18.29
+2025-09-04,RT-01012,West,Colorado,Beauty,Daily ritual face oil,1,48.29,18.55
+2025-02-27,RT-01013,Northeast,Massachusetts,Electronics,Smart desk light,1,42.41,19.40
+2025-07-29,RT-01014,Northeast,Pennsylvania,Beauty,Daily ritual face oil,1,45.97,18.96
+2025-04-14,RT-01015,Northeast,Pennsylvania,Apparel,Everyday tote bag,1,34.08,11.95
+2025-09-21,RT-01016,South,North Carolina,Beauty,Botanical hand care set,1,35.78,14.40
+2025-12-01,RT-01017,South,Texas,Electronics,Wireless headphones,3,88.22,44.45
+2025-04-01,RT-01018,South,Georgia,Beauty,Daily ritual face oil,1,47.11,18.61
+2025-01-03,RT-01019,South,Georgia,Electronics,Wireless headphones,1,84.23,44.97
+2025-03-23,RT-01020,Northeast,Massachusetts,Apparel,Cotton knit sweater,1,84.08,37.15
+2025-03-30,RT-01021,South,Texas,Beauty,Citrus body wash,3,22.13,8.18
+2025-04-08,RT-01022,South,Georgia,Beauty,Citrus body wash,1,21.51,7.81
+2025-04-19,RT-01023,South,Georgia,Home & Living,Glass table lamp,1,66.78,29.04
+2025-06-23,RT-01024,Midwest,Minnesota,Beauty,Daily ritual face oil,1,49.81,18.60
+2025-11-24,RT-01025,Northeast,New York,Beauty,Botanical hand care set,1,34.33,14.46
+2025-01-20,RT-01026,South,Georgia,Beauty,Daily ritual face oil,1,50.71,19.01
+2025-04-27,RT-01027,Midwest,Ohio,Beauty,Citrus body wash,2,23.26,8.06
+2025-11-28,RT-01028,Midwest,Ohio,Beauty,Citrus body wash,1,23.23,8.16
+2025-08-20,RT-01029,Midwest,Minnesota,Beauty,Citrus body wash,2,20.74,7.90
+2025-12-31,RT-01030,Midwest,Ohio,Home & Living,Stoneware dinner set,1,69.13,32.69
+2025-11-10,RT-01031,West,Washington,Home & Living,Linen cushion cover,1,28.88,10.97
+2025-05-10,RT-01032,West,Washington,Home & Living,Linen cushion cover,1,27.45,11.23
+2025-07-10,RT-01033,Northeast,Pennsylvania,Home & Living,Linen cushion cover,2,29.42,11.01
+2025-12-22,RT-01034,West,California,Electronics,Wireless headphones,3,85.09,45.82
+2025-07-28,RT-01035,South,Texas,Home & Living,Linen cushion cover,4,29.41,11.00
+2025-03-22,RT-01036,Northeast,Massachusetts,Beauty,Botanical hand care set,1,36.08,13.73
+2025-02-01,RT-01037,South,North Carolina,Home & Living,Stoneware dinner set,1,75.62,33.49
+2025-10-01,RT-01038,South,Georgia,Apparel,Everyday tote bag,1,32.87,11.86
+2025-02-15,RT-01039,Midwest,Minnesota,Electronics,Portable speaker,1,54.91,28.07
+2025-06-16,RT-01040,Midwest,Ohio,Home & Living,Linen cushion cover,1,29.74,10.73
+2025-04-04,RT-01041,West,California,Beauty,Botanical hand care set,2,35.37,14.39
+2025-02-04,RT-01042,Midwest,Ohio,Apparel,Cotton knit sweater,2,85.92,34.65
+2025-07-21,RT-01043,Midwest,Minnesota,Home & Living,Stoneware dinner set,3,69.57,35.34
+2025-03-05,RT-01044,Midwest,Ohio,Home & Living,Glass table lamp,1,64.66,29.71
+2025-12-02,RT-01045,Midwest,Minnesota,Home & Living,Stoneware dinner set,3,71.75,32.89
+2025-04-03,RT-01046,Midwest,Illinois,Home & Living,Linen cushion cover,2,26.93,11.18
+2025-11-14,RT-01047,Midwest,Illinois,Apparel,Cotton knit sweater,2,81.40,36.61
+2025-11-05,RT-01048,South,Georgia,Home & Living,Linen cushion cover,1,27.57,10.97
+2025-12-15,RT-01049,South,Georgia,Beauty,Botanical hand care set,3,37.62,13.54
+2025-08-04,RT-01050,Midwest,Minnesota,Beauty,Daily ritual face oil,1,46.76,19.03
+2025-08-10,RT-01051,West,Washington,Home & Living,Glass table lamp,1,64.39,27.95
+2025-06-13,RT-01052,Northeast,Pennsylvania,Beauty,Botanical hand care set,3,37.25,13.77
+2025-12-15,RT-01053,Midwest,Minnesota,Apparel,Cotton knit sweater,1,83.81,35.23
+2025-01-06,RT-01054,South,North Carolina,Home & Living,Stoneware dinner set,1,74.27,33.21
+2025-12-12,RT-01055,South,Georgia,Electronics,Smart desk light,2,43.08,18.60
+2025-04-17,RT-01056,West,California,Home & Living,Linen cushion cover,2,29.84,10.56
+2025-10-20,RT-01057,Northeast,New York,Beauty,Daily ritual face oil,2,45.37,19.15
+2025-10-22,RT-01058,South,Texas,Apparel,Everyday tote bag,2,32.53,11.65
+2025-10-06,RT-01059,South,North Carolina,Beauty,Citrus body wash,1,22.58,8.02
+2025-12-11,RT-01060,South,North Carolina,Home & Living,Linen cushion cover,4,29.85,11.44
+2025-05-27,RT-01061,South,Georgia,Apparel,Everyday tote bag,1,32.69,12.13
+2025-10-12,RT-01062,Midwest,Illinois,Apparel,Relaxed fit tee,3,27.18,9.05
+2025-10-18,RT-01063,Midwest,Illinois,Beauty,Daily ritual face oil,1,47.71,18.69
+2025-03-10,RT-01064,South,Georgia,Electronics,Portable speaker,2,60.90,27.21
+2025-03-18,RT-01065,Northeast,Pennsylvania,Apparel,Everyday tote bag,4,30.11,11.98
+2025-01-15,RT-01066,Northeast,Pennsylvania,Electronics,Portable speaker,1,56.59,26.46
+2025-08-01,RT-01067,South,North Carolina,Apparel,Everyday tote bag,1,30.27,12.26
+2025-12-20,RT-01068,South,North Carolina,Apparel,Everyday tote bag,1,30.31,12.16
+2025-08-04,RT-01069,South,Texas,Electronics,Wireless headphones,2,88.51,46.89
+2025-12-30,RT-01070,West,California,Beauty,Daily ritual face oil,2,49.28,18.44
+2025-12-21,RT-01071,Northeast,New York,Electronics,Portable speaker,1,58.52,26.13
+2025-10-03,RT-01072,Midwest,Minnesota,Home & Living,Linen cushion cover,1,29.18,11.31
+2025-07-30,RT-01073,Northeast,Pennsylvania,Home & Living,Glass table lamp,1,62.75,27.93
+2025-06-24,RT-01074,South,North Carolina,Beauty,Daily ritual face oil,1,49.39,18.39
+2025-10-26,RT-01075,West,California,Electronics,Portable speaker,2,57.45,26.12
+2025-04-14,RT-01076,West,Washington,Electronics,Portable speaker,1,59.21,27.43
+2025-07-15,RT-01077,West,Colorado,Beauty,Citrus body wash,2,23.00,7.71
+2025-07-06,RT-01078,West,Washington,Home & Living,Glass table lamp,2,67.40,28.94
+2025-07-04,RT-01079,Northeast,Massachusetts,Beauty,Citrus body wash,2,21.60,8.21
+2025-11-02,RT-01080,Northeast,Pennsylvania,Apparel,Cotton knit sweater,2,81.01,36.08
+2025-08-16,RT-01081,South,North Carolina,Beauty,Citrus body wash,1,22.11,8.25
+2025-03-28,RT-01082,Midwest,Illinois,Electronics,Portable speaker,1,56.39,27.22
+2025-10-06,RT-01083,South,Georgia,Beauty,Botanical hand care set,1,34.96,14.19
+2025-10-01,RT-01084,West,Colorado,Electronics,Wireless headphones,2,85.68,44.56
+2025-09-21,RT-01085,Midwest,Illinois,Apparel,Everyday tote bag,1,31.78,11.73
+2025-03-21,RT-01086,Midwest,Illinois,Apparel,Cotton knit sweater,2,87.38,35.87
+2025-05-25,RT-01087,South,Texas,Apparel,Cotton knit sweater,1,87.67,36.90
+2025-09-30,RT-01088,South,Texas,Electronics,Wireless headphones,3,85.45,47.04
+2025-12-29,RT-01089,West,Colorado,Beauty,Citrus body wash,1,22.13,7.96
+2025-10-29,RT-01090,West,California,Beauty,Daily ritual face oil,2,47.84,19.10
+2025-06-18,RT-01091,South,Texas,Home & Living,Glass table lamp,1,64.16,28.75
+2025-04-26,RT-01092,Midwest,Minnesota,Beauty,Citrus body wash,1,22.46,7.93
+2025-06-21,RT-01093,South,North Carolina,Apparel,Everyday tote bag,1,31.76,11.70
+2025-09-24,RT-01094,Midwest,Ohio,Apparel,Everyday tote bag,3,33.01,12.01
+2025-10-18,RT-01095,South,Georgia,Home & Living,Stoneware dinner set,1,72.04,33.07
+2025-08-11,RT-01096,Northeast,New York,Home & Living,Stoneware dinner set,4,74.48,34.41
+2025-05-14,RT-01097,West,California,Beauty,Botanical hand care set,1,37.91,13.49
+2025-02-27,RT-01098,West,California,Apparel,Relaxed fit tee,2,25.70,8.87
+2025-12-08,RT-01099,West,California,Apparel,Relaxed fit tee,3,27.33,8.96
+2025-05-25,RT-01100,Northeast,New York,Electronics,Smart desk light,1,40.99,19.32
+2025-08-23,RT-01101,South,Georgia,Apparel,Cotton knit sweater,1,88.06,36.10
+2025-11-13,RT-01102,West,California,Beauty,Botanical hand care set,1,36.73,14.13
+2025-02-26,RT-01103,South,North Carolina,Beauty,Botanical hand care set,1,35.67,13.64
+2025-03-01,RT-01104,South,North Carolina,Home & Living,Glass table lamp,2,63.59,28.04
+2025-10-22,RT-01105,Midwest,Ohio,Electronics,Smart desk light,1,41.15,18.65
+2025-07-22,RT-01106,West,Washington,Electronics,Portable speaker,1,60.73,27.01
+2025-04-29,RT-01107,Midwest,Ohio,Electronics,Portable speaker,2,54.73,26.16
+2025-02-23,RT-01108,West,California,Apparel,Everyday tote bag,2,33.77,11.90
+2025-07-23,RT-01109,Northeast,New York,Electronics,Smart desk light,1,42.95,18.36
+2025-04-01,RT-01110,West,Washington,Home & Living,Linen cushion cover,1,29.42,11.10
+2025-01-29,RT-01111,South,North Carolina,Electronics,Wireless headphones,1,89.61,47.72
+2025-05-04,RT-01112,Midwest,Minnesota,Apparel,Cotton knit sweater,1,84.93,37.00
+2025-06-14,RT-01113,Midwest,Minnesota,Beauty,Daily ritual face oil,2,45.94,19.62
+2025-11-03,RT-01114,Midwest,Illinois,Beauty,Citrus body wash,2,23.19,8.11
+2025-10-24,RT-01115,Midwest,Illinois,Home & Living,Stoneware dinner set,2,69.13,34.49
+2025-12-23,RT-01116,Northeast,Pennsylvania,Apparel,Relaxed fit tee,3,25.14,8.89
+2025-09-20,RT-01117,South,Georgia,Apparel,Cotton knit sweater,1,89.55,36.57
+2025-12-03,RT-01118,Northeast,Massachusetts,Home & Living,Stoneware dinner set,2,68.89,33.26
+2025-01-22,RT-01119,Northeast,Pennsylvania,Apparel,Everyday tote bag,1,34.21,12.19
+2025-01-01,RT-01120,Northeast,New York,Apparel,Relaxed fit tee,2,27.22,8.82
+2025-11-13,RT-01121,South,Texas,Beauty,Daily ritual face oil,3,51.19,18.63
+2025-08-31,RT-01122,Northeast,Pennsylvania,Apparel,Relaxed fit tee,3,24.82,8.87
+2025-11-24,RT-01123,Midwest,Minnesota,Home & Living,Linen cushion cover,1,28.97,11.22
+2025-03-08,RT-01124,Northeast,Massachusetts,Electronics,Smart desk light,1,41.13,18.66
+2025-09-24,RT-01125,South,Georgia,Electronics,Wireless headphones,1,85.99,46.89
+2025-03-25,RT-01126,South,North Carolina,Beauty,Botanical hand care set,1,37.35,13.76
+2025-12-21,RT-01127,Northeast,New York,Apparel,Relaxed fit tee,4,24.50,8.66
+2025-11-02,RT-01128,West,Washington,Electronics,Wireless headphones,1,86.85,44.99
+2025-09-29,RT-01129,Northeast,Pennsylvania,Home & Living,Glass table lamp,2,64.88,28.79
+2025-07-29,RT-01130,West,California,Apparel,Relaxed fit tee,1,25.31,8.88
+2025-05-19,RT-01131,Northeast,New York,Apparel,Relaxed fit tee,2,25.53,9.08
+2025-12-27,RT-01132,Midwest,Minnesota,Home & Living,Linen cushion cover,2,28.70,10.96
+2025-02-25,RT-01133,South,Georgia,Home & Living,Linen cushion cover,1,26.83,11.03
+2025-07-14,RT-01134,West,Colorado,Home & Living,Linen cushion cover,1,26.52,11.10
+2025-08-20,RT-01135,West,California,Electronics,Portable speaker,3,58.16,27.08
+2025-12-05,RT-01136,West,Washington,Beauty,Botanical hand care set,2,37.60,13.49
+2025-07-23,RT-01137,Midwest,Illinois,Electronics,Wireless headphones,1,86.24,47.43
+2025-07-23,RT-01138,Northeast,New York,Apparel,Cotton knit sweater,1,83.90,35.52
+2025-04-08,RT-01139,Northeast,Pennsylvania,Apparel,Cotton knit sweater,1,82.43,37.08
+2025-04-19,RT-01140,West,Colorado,Home & Living,Stoneware dinner set,2,74.21,33.49
+2025-04-05,RT-01141,Midwest,Illinois,Apparel,Relaxed fit tee,1,25.21,9.11
+2025-07-05,RT-01142,West,Colorado,Apparel,Cotton knit sweater,3,86.07,34.71
+2025-10-19,RT-01143,Midwest,Ohio,Apparel,Cotton knit sweater,1,89.83,35.18
+2025-03-19,RT-01144,Northeast,New York,Beauty,Citrus body wash,1,22.91,8.14
+2025-10-11,RT-01145,West,Colorado,Beauty,Daily ritual face oil,1,49.81,18.49
+2025-04-16,RT-01146,Midwest,Minnesota,Electronics,Smart desk light,1,42.67,19.40
+2025-05-19,RT-01147,West,Washington,Apparel,Everyday tote bag,1,31.85,11.76
+2025-11-28,RT-01148,West,Washington,Home & Living,Glass table lamp,2,62.56,28.36
+2025-08-07,RT-01149,Northeast,New York,Home & Living,Stoneware dinner set,2,71.90,33.30
+2025-03-27,RT-01150,South,Texas,Apparel,Everyday tote bag,1,33.19,11.71
+2025-06-29,RT-01151,Midwest,Illinois,Electronics,Wireless headphones,1,94.12,45.93
+2025-10-21,RT-01152,Northeast,Pennsylvania,Electronics,Portable speaker,2,56.15,26.32
+2025-12-25,RT-01153,South,North Carolina,Apparel,Cotton knit sweater,1,82.69,35.48
+2025-12-15,RT-01154,Midwest,Minnesota,Beauty,Daily ritual face oil,1,48.69,19.70
+2025-10-24,RT-01155,Northeast,Pennsylvania,Home & Living,Glass table lamp,1,64.19,29.69
+2025-01-31,RT-01156,Midwest,Ohio,Home & Living,Glass table lamp,1,64.44,29.96
+2025-01-14,RT-01157,South,Texas,Home & Living,Stoneware dinner set,1,70.30,33.24
+2025-04-04,RT-01158,West,Colorado,Electronics,Wireless headphones,2,90.40,46.22
+2025-04-09,RT-01159,West,Colorado,Home & Living,Stoneware dinner set,1,72.22,33.70
+2025-08-20,RT-01160,Northeast,Pennsylvania,Beauty,Citrus body wash,1,21.81,7.86
+2025-02-20,RT-01161,Midwest,Minnesota,Apparel,Everyday tote bag,1,32.95,12.29
+2025-12-14,RT-01162,Northeast,Massachusetts,Beauty,Botanical hand care set,1,34.87,13.75
+2025-03-06,RT-01163,South,North Carolina,Apparel,Relaxed fit tee,2,27.53,9.15
+2025-01-07,RT-01164,Midwest,Ohio,Home & Living,Stoneware dinner set,1,73.00,33.60
+2025-09-13,RT-01165,West,Washington,Apparel,Relaxed fit tee,3,26.99,8.87
+2025-12-21,RT-01166,West,Colorado,Apparel,Everyday tote bag,3,32.02,12.16
+2025-04-06,RT-01167,West,Colorado,Electronics,Wireless headphones,1,90.73,47.55
+2025-08-19,RT-01168,South,North Carolina,Apparel,Cotton knit sweater,1,83.44,35.23
+2025-07-11,RT-01169,West,Colorado,Home & Living,Stoneware dinner set,1,70.91,33.00
+2025-11-18,RT-01170,South,Texas,Beauty,Citrus body wash,1,20.97,7.86
+2025-06-18,RT-01171,Midwest,Minnesota,Beauty,Daily ritual face oil,1,50.34,18.39
+2025-08-20,RT-01172,Midwest,Illinois,Home & Living,Glass table lamp,1,61.17,28.99
+2025-03-31,RT-01173,Midwest,Minnesota,Apparel,Relaxed fit tee,2,25.14,9.05
+2025-01-27,RT-01174,West,Colorado,Home & Living,Glass table lamp,1,64.15,30.10
+2025-05-09,RT-01175,Northeast,New York,Beauty,Daily ritual face oil,2,46.77,19.53
+2025-09-27,RT-01176,Northeast,New York,Apparel,Cotton knit sweater,1,83.40,36.67
+2025-06-13,RT-01177,Northeast,Massachusetts,Home & Living,Glass table lamp,1,61.51,28.18
+2025-06-12,RT-01178,Northeast,Pennsylvania,Home & Living,Glass table lamp,1,67.00,29.05
+2025-12-15,RT-01179,West,California,Beauty,Daily ritual face oil,1,47.97,19.68
+2025-07-05,RT-01180,Northeast,New York,Apparel,Everyday tote bag,1,32.85,11.68
+2025-10-06,RT-01181,Midwest,Minnesota,Beauty,Daily ritual face oil,1,50.57,18.74
+2025-10-19,RT-01182,South,North Carolina,Home & Living,Glass table lamp,1,60.22,28.56
+2025-03-21,RT-01183,South,North Carolina,Electronics,Portable speaker,1,56.60,26.92
+2025-04-11,RT-01184,Midwest,Minnesota,Apparel,Relaxed fit tee,1,27.64,8.87
+2025-06-19,RT-01185,South,North Carolina,Home & Living,Stoneware dinner set,2,76.29,34.88
+2025-05-18,RT-01186,Midwest,Minnesota,Electronics,Smart desk light,1,45.85,19.34
+2025-02-15,RT-01187,Northeast,Pennsylvania,Apparel,Everyday tote bag,1,32.48,12.27
+2025-12-21,RT-01188,South,Texas,Apparel,Relaxed fit tee,1,25.57,8.77
+2025-10-19,RT-01189,Northeast,Massachusetts,Beauty,Citrus body wash,1,22.38,8.25
+2025-12-03,RT-01190,Northeast,Pennsylvania,Electronics,Smart desk light,1,41.29,18.41
+2025-09-23,RT-01191,Midwest,Ohio,Apparel,Everyday tote bag,3,30.48,11.89
+2025-05-01,RT-01192,Midwest,Minnesota,Home & Living,Stoneware dinner set,1,70.37,32.79
+2025-12-21,RT-01193,West,Washington,Apparel,Everyday tote bag,3,34.06,11.53
+2025-09-05,RT-01194,Northeast,Pennsylvania,Electronics,Portable speaker,4,54.97,28.05
+2025-07-08,RT-01195,Northeast,New York,Beauty,Botanical hand care set,1,37.41,13.84
+2025-05-31,RT-01196,Northeast,Pennsylvania,Home & Living,Linen cushion cover,1,27.41,11.39
+2025-12-05,RT-01197,West,California,Electronics,Smart desk light,2,41.13,19.08
+2025-03-17,RT-01198,West,California,Electronics,Smart desk light,1,44.19,18.93
+2025-01-04,RT-01199,Midwest,Minnesota,Apparel,Cotton knit sweater,1,83.25,35.44
+2025-03-20,RT-01200,Midwest,Illinois,Electronics,Wireless headphones,3,89.92,44.46
