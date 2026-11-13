@@ -2,7 +2,7 @@ import tempfile
 import unittest
 from pathlib import Path
 
-from app import app
+from goodfolk_app import app
 from sales import filter_sales, load_sales, summarize
 
 
