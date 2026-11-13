@@ -1,6 +1,6 @@
 # Northstar — Retail Sales Dashboard
 
-A polished, responsive retail analytics website built with Python and Flask. Explore sales, net profit, orders, average order value, sales trends, category mix, regional performance, bestsellers, and recent transactions. Filters update the dashboard live, and the Export report button downloads a CSV summary.
+A polished, responsive retail analytics website built with Python and Flask. Explore sales, net profit, orders, average order value, sales trends, category mix, regional performance, bestsellers, and recent transactions. Filters update the dashboard live, and the Export report button downloads a filtered CSV summary with top products.
 
 > **Demo only:** This project includes 1,200 reproducible, entirely fictional sample orders for 2025. It does not contain real customer or business data.
 

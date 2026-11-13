@@ -49,8 +49,8 @@ class DashboardRouteTests(unittest.TestCase):
     def test_homepage_renders_dashboard_and_demo_label(self):
         response = self.client.get("/")
         self.assertEqual(response.status_code, 200)
-        self.assertIn(b"Retail intelligence", response.data)
-        self.assertIn(b"DEMO DATA", response.data)
+        self.assertIn(b"Retail, in focus", response.data)
+        self.assertIn(b"LIVE DEMO", response.data)
         self.assertIn(b"fictional", response.data.lower())
 
     def test_dashboard_api_returns_expected_sections(self):
@@ -66,6 +66,19 @@ class DashboardRouteTests(unittest.TestCase):
         self.assertEqual(self.client.get("/api/dashboard?start=not-a-date").status_code, 400)
         self.assertEqual(self.client.get("/api/dashboard?start=2025-11-01&end=2025-01-01").status_code, 400)
         self.assertEqual(self.client.get("/api/dashboard?start=2026-01-01").status_code, 404)
+
+    def test_export_route_returns_filtered_downloadable_csv(self):
+        response = self.client.get("/api/export?region=West")
+        self.assertEqual(response.status_code, 200)
+        self.assertIn("attachment; filename=northstar-retail-summary.csv", response.headers["Content-Disposition"])
+        self.assertTrue(response.data.startswith(b"\xef\xbb\xbf"))
+        self.assertIn(b"Top products", response.data)
+        self.assertIn(b"Profit margin (%)", response.data)
+
+    def test_export_route_reports_invalid_filters(self):
+        response = self.client.get("/api/export?category=Unknown")
+        self.assertEqual(response.status_code, 400)
+        self.assertIn("error", response.get_json())
 
     def test_health_route(self):
         self.assertEqual(self.client.get("/health").get_json()["status"], "ok")

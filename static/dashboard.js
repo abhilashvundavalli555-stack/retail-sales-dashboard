@@ -8,7 +8,7 @@ const compactMoney = (value) => {
   return money(value);
 };
 const number = (value) => new Intl.NumberFormat("en-US").format(value);
-const palette = ["#25815f", "#85b79d", "#b4d2c2", "#e0ebe4"];
+const palette = ["#ed7860", "#8c75e8", "#79a4d5", "#72b99f"];
 
 function svgElement(name, attributes = {}) {
   const node = document.createElementNS("http://www.w3.org/2000/svg", name);
@@ -41,7 +41,7 @@ function drawTrend(items) {
     x: padding.left + plotWidth * (items.length === 1 ? 0.5 : index / (items.length - 1)),
     y: padding.top + plotHeight * (1 - value / max),
   });
-  for (const [key, color, className] of [["sales", "#22815c", "line-sales"], ["profit", "#98c4ac", "line-profit"]]) {
+  for (const [key, color, className] of [["sales", "#ed7860", "line-sales"], ["profit", "#8c75e8", "line-profit"]]) {
     const points = items.map((item, index) => pointFor(item[key], index));
     const path = svgElement("path", {
       d: points.map((point, index) => `${index ? "L" : "M"} ${point.x} ${point.y}`).join(" "),
@@ -241,22 +241,24 @@ $("#export-button").addEventListener("click", async () => {
     region: $("#region-filter").value,
     category: $("#category-filter").value,
   });
-  const response = await fetch(`/api/dashboard?${params}`);
-  const data = await response.json();
-  if (!response.ok) {
-    $("#status-message").textContent = data.error || "Could not export this report.";
-    return;
+  $("#status-message").textContent = "Preparing your filtered CSV report…";
+  try {
+    const response = await fetch(`/api/export?${params}`);
+    if (!response.ok) {
+      const error = await response.json();
+      throw new Error(error.error || "Could not export this report.");
+    }
+    const link = document.createElement("a");
+    link.href = URL.createObjectURL(await response.blob());
+    link.download = "northstar-retail-summary.csv";
+    document.body.append(link);
+    link.click();
+    link.remove();
+    setTimeout(() => URL.revokeObjectURL(link.href), 1000);
+    $("#status-message").textContent = "Your filtered CSV report is downloading.";
+  } catch (error) {
+    $("#status-message").textContent = error.message || "Could not export this report.";
   }
-  const rows = [["Metric", "Value"],
-    ["Total sales (USD)", data.kpis.sales], ["Net profit (USD)", data.kpis.profit],
-    ["Profit margin (%)", data.kpis.margin], ["Orders", data.kpis.orders],
-    ["Average order value (USD)", data.kpis.average_order], ["Units sold", data.kpis.units]];
-  const csv = rows.map((row) => row.map((field) => `"${String(field).replaceAll('"', '""')}"`).join(",")).join("\r\n");
-  const link = document.createElement("a");
-  link.href = URL.createObjectURL(new Blob([csv], { type: "text/csv;charset=utf-8" }));
-  link.download = "northstar-retail-summary.csv";
-  link.click();
-  URL.revokeObjectURL(link.href);
 });
 window.addEventListener("resize", () => loadDashboard());
 loadDashboard();
