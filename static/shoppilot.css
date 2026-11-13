@@ -155,6 +155,8 @@ button { cursor: pointer; }
 .product-rank { display: grid; width: 21px; height: 21px; flex: none; place-items: center; border-radius: 7px; color: #71836b; background: #edf3e9; font-size: 7px; font-weight: 700; }
 .bestsellers-panel .product-list { display: grid; margin: 8px 0 0; }
 .bestsellers-panel .compact-row { padding: 5px 0; }
+.bestsellers-panel .compact-row > .product-rank { width: 21px; flex: 0 0 21px; }
+.bestsellers-panel .compact-row > span:nth-child(2) { min-width: 0; flex: 1; }
 .peak-note { display: flex; align-items: center; gap: 5px; margin-top: 7px; padding-top: 7px; border-top: 1px solid #eff1ed; color: #909b93; font-size: 7px; }
 .peak-note > span { color: #bd8054; }
 .peak-note strong { color: #557a5f; font-weight: 700; }
